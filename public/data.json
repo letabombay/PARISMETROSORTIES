@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J84",
+  "range": "'スポットデータ'!A1:J82",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -25,21 +25,6 @@
       "",
       "geoloniamap",
       "https://geolonia.com"
-    ],
-    [
-      "",
-      "",
-      "",
-      "48.83207839",
-      "2.289378941",
-      "Ⓢ5.M12: Porte de Versailles, "
-    ],
-    [
-      "",
-      "M1 La Defense",
-      "",
-      "48.89188649",
-      "2.238705039"
     ]
   ]
 }
