@@ -1,41 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J81",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "",
-      "Metro 12",
-      "https://letabombay.github.io/PARISMETROSORTIES/corentincelton_sortie_1",
-      "48.82462",
-      "2.27317"
-    ],
-    [
-      "",
-      "",
-      "",
-      "35.67991226",
-      "139.8082672",
-      "東京都現代美術館"
-    ],
-    [
-      "",
-      "",
-      "",
-      "35.02563312",
-      "135.7620817",
-      "京都御所"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
