@@ -171,7 +171,7 @@
       "",
       "48.89056976",
       "2.349483029",
-      "Sortie 1: \nMarcadet - Poissonniers \n(M12)"
+      "Sortie 1: \nMarcadet - Poissonniers \n(M4, M12)"
     ],
     [
       "",
@@ -179,7 +179,7 @@
       "",
       "48.89058563",
       "2.349753932",
-      "Sortie 2: \nMarcadet - Poissonniers \n(M12)"
+      "Sortie 2: \nMarcadet - Poissonniers \n(M4, M12)"
     ],
     [
       "",
@@ -187,7 +187,7 @@
       "",
       "48.88963154",
       "2.349719063",
-      "Sortie 3: \nMarcadet - Poissonniers \n(M12)"
+      "Sortie 3: \nMarcadet - Poissonniers \n(M4, M12)"
     ],
     [
       "",
@@ -195,7 +195,7 @@
       "",
       "48.89162788",
       "2.349788801",
-      "Sortie 4: \nMarcadet - Poissonniers \n(M12)"
+      "Sortie 4: \nMarcadet - Poissonniers \n(M4, M12)"
     ],
     [
       "",
@@ -203,7 +203,7 @@
       "",
       "48.89152736",
       "2.350175039",
-      "Sortie 5: \nMarcadet - Poissonniers \n(M12)"
+      "Sortie 5: \nMarcadet - Poissonniers \n(M4, M12)"
     ],
     [
       "",
@@ -243,7 +243,7 @@
       "",
       "48.88243893",
       "2.337237929",
-      "Sortie 1:  \nPigalle \n(M12)"
+      "Sortie 1:  \nPigalle \n(M2, M12)"
     ],
     [
       "",
@@ -251,7 +251,7 @@
       "",
       "48.88239422",
       "2.337572896",
-      "Sortie 1:  \nPigalle \n(M12)"
+      "Sortie 1:  \nPigalle \n(M2, M12)"
     ],
     [
       "",
@@ -259,7 +259,7 @@
       "",
       "48.88232251",
       "2.337937985",
-      "Sortie 1:  \nPigalle \n(M12)"
+      "Sortie 1:  \nPigalle \n(M2, M12)"
     ],
     [
       "",
@@ -311,123 +311,243 @@
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87556191",
+      "2.324282866",
+      "Sortie 1:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87541141",
+      "2.326416993",
+      "Sortie 2:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87541979",
+      "2.326849499",
+      "Sortie 3:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87601061",
+      "2.324994788",
+      "Sortie 4:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.8762234",
+      "2.325535253",
+      "Sortie 5:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87515812",
+      "2.324733943",
+      "Sortie 6:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87480133",
+      "2.324685663",
+      "Sortie 7:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87570719",
+      "2.326628923",
+      "Sortie 8:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87615967",
+      "2.326355338",
+      "Sortie 9:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87571421",
+      "2.328632821",
+      "Sortie 10:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Saint-Lazare\n",
+      "",
+      "48.87583623",
+      "2.328354989",
+      "Sortie 11:  \nSaint-Lazare\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Madeleine\n\n",
+      "",
+      "48.87029169",
+      "2.325582307",
+      "Sortie 1:  \nMadeleine\n(M8, M12, M14)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Madeleine\n\n",
+      "",
+      "48.86965655",
+      "2.325190705",
+      "Sortie 2:  \nMadeleine\n(M8, M12, N14)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Madeleine\n\n",
+      "",
+      "48.86934427",
+      "2.325327497",
+      "Sortie 3:  \nMadeleine\n(M8, N12, M14)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Madeleine\n\n",
+      "",
+      "48.87096563",
+      "2.32530604",
+      "Sortie 4:  \nMadeleine\n(M8, M12, M14)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Madeleine\n\n",
+      "",
+      "48.87110324",
+      "2.325104874",
+      "Sortie 5:  \nMadeleine\n(M8, M12, M14)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Concorde\n",
+      "",
+      "48.86633749",
+      "2.323472",
+      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Concorde\n",
+      "",
+      "48.86636572",
+      "2.323767042",
+      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Concorde\n",
+      "",
+      "48.86650335",
+      "2.323702669",
+      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Concorde\n",
+      "",
+      "48.86530354",
+      "2.322704888",
+      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Concorde\n",
+      "",
+      "48.86601637",
+      "2.324963308",
+      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
-      "Metro 12"
+      " Rue du Bac\r\n",
+      "",
+      "48.86673977",
+      "2.322533226",
+      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12　Concorde\n",
+      "",
+      "48.86708559",
+      "2.321401334",
+      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Assemblée nationale\n",
+      "",
+      "48.86127019",
+      "2.320373118",
+      "Sortie 1:  \nAssemblée nationale\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Assemblée nationale\n",
+      "",
+      "48.86106285",
+      "2.32089749",
+      "Sortie 2:  \nAssemblée nationale\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Assemblée nationale\n",
+      "",
+      "48.86020349",
+      "2.321397722",
+      "Sortie 3:  \nAssemblée nationale\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Solférino",
+      "",
+      "48.85877148",
+      "2.322524249",
+      "Sortie 1:  \nSolférino\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Solférino",
+      "",
+      "48.85875207",
+      "2.32304728",
+      "Sortie 2:  \nSolférino\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Solférino",
+      "",
+      "48.85794472",
+      "2.323488503",
+      "Sortie 3:  \nSolférino\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Rue du Bac",
+      "",
+      "48.85576567",
+      "2.325618154",
+      "Sortie 1:  \nRue du Bac\n(M12)"
     ],
     [
       "",
