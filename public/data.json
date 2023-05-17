@@ -873,277 +873,629 @@
       "",
       "M13 Porte de Vanves\n",
       "",
-      "",
-      "",
+      "48.82772581",
+      "2.305904389",
       "Sortie 1:  \nPorte de Vanves\n(M13)"
     ],
     [
       "",
-      "Metro 12"
+      "M13 Porte de Vanves\n",
+      "",
+      "48.82748091",
+      "2.305857689",
+      "Sortie 2:  \nPorte de Vanves\n(M13)"
+    ],
+    [
+      "",
+      "M13 Porte de Vanves\n",
+      "",
+      "48.82770946",
+      "2.304678135",
+      "Sortie 3:  \nPorte de Vanves\n(M13)"
+    ],
+    [
+      "",
+      "M13 Porte de Vanves\n",
+      "",
+      "48.82793392",
+      "2.304940412",
+      "Sortie 4:  \nPorte de Vanves\n(M13)"
+    ],
+    [
+      "",
+      "M13 Plaisance\n",
+      "",
+      "48.83169513",
+      "2.314400894",
+      "Sortie 1:  \nPlaisance\n(M13)"
+    ],
+    [
+      "",
+      "M13 Plaisance\n",
+      "",
+      "48.83179842",
+      "2.314570543",
+      "Sortie 2:  \nPlaisance\n(M13)"
+    ],
+    [
+      "",
+      "M13 Plaisance\n",
+      "",
+      "48.83192069",
+      "2.314003256",
+      "Sortie 3:  \nPlaisance\n(M13)"
+    ],
+    [
+      "",
+      "M13 Plaisance\n",
+      "",
+      "48.8318174",
+      "2.313859758",
+      "Sortie 4:  \nPlaisance\n(M13)"
+    ],
+    [
+      "",
+      "M13 Plaisance\n",
+      "",
+      "48.83153225",
+      "2.313466814",
+      "Sortie 5:  \nPlaisance\n(M13)"
+    ],
+    [
+      "",
+      "M13 Pernety\n",
+      "",
+      "48.83397724",
+      "2.31794585",
+      "Sortie 1:  \nPernety\n(M13)"
+    ],
+    [
+      "",
+      "M13 Pernety\n",
+      "",
+      "48.83451437",
+      "2.31899222",
+      "Sortie 2:  \nPernety\n(M13)"
+    ],
+    [
+      "",
+      "M13 Gaîté",
+      "",
+      "48.83841706",
+      "2.322195261",
+      "Sortie 1:  \nGaîté\n(M13)"
+    ],
+    [
+      "",
+      "M13 Gaîté",
+      "",
+      "48.83857153",
+      "2.32190223",
+      "Sortie 2:  \nGaîté\n(M13)"
+    ],
+    [
+      "",
+      "M13 Gaîté",
+      "",
+      "48.83873395",
+      "2.322065844",
+      "Sortie 3:  \nGaîté\n(M13)"
+    ],
+    [
+      "",
+      "M13 Gaîté",
+      "",
+      "48.8387825",
+      "2.322613686",
+      "Sortie 4:  \nGaîté\n(M13)"
+    ],
+    [
+      "",
+      "M13 Gaîté",
+      "",
+      "48.83842986",
+      "2.322757184",
+      "Sortie 5:  \nGaîté\n(M13)"
+    ],
+    [
+      "",
+      "M13 Montparnasse–Bienvenüe\n",
+      "",
+      "48.83821106",
+      "2.316868074",
+      "Sortie 1:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
+    ],
+    [
+      "",
+      "M13 Montparnasse–Bienvenüe\n",
+      "",
+      "48.84266676",
+      "2.320615634",
+      "Sortie 2:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
+    ],
+    [
+      "",
+      "M13 Montparnasse–Bienvenüe\n",
+      "",
+      "48.84182046",
+      "2.32158805",
+      "Sortie 3:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
+    ],
+    [
+      "",
+      "M13 Montparnasse–Bienvenüe\n",
+      "",
+      "48.84379647",
+      "2.324532623",
+      "Sortie 4:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
+    ],
+    [
+      "",
+      "M13 Montparnasse–Bienvenüe\n",
+      "",
+      "48.84330327",
+      "2.324447164",
+      "Sortie 5:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
+    ],
+    [
+      "",
+      "M13 Montparnasse–Bienvenüe\n",
+      "",
+      "48.84342152",
+      "2.323377833",
+      "Sortie 6:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
+    ],
+    [
+      "",
+      "M13 Montparnasse–Bienvenüe\n",
+      "",
+      "48.84424063",
+      "2.323202533",
+      "Sortie 7:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
+    ],
+    [
+      "",
+      "M13 Duroc\n",
+      "",
+      "48.84709746",
+      "2.316254218",
+      "Sortie 1:  \nDuroc\n(M13)"
+    ],
+    [
+      "",
+      "M13 Duroc\n",
+      "",
+      "48.84708482",
+      "2.316862788",
+      "Sortie 2:  \nDuroc\n(M13)"
+    ],
+    [
+      "",
+      "M13 Duroc\n",
+      "",
+      "48.84688751",
+      "2.317151456",
+      "Sortie 3:  \nDuroc\n(M13)"
+    ],
+    [
+      "",
+      "M13 Duroc\n",
+      "",
+      "48.84666395",
+      "2.316610802",
+      "Sortie 4:  \nDuroc\n(M13)"
+    ],
+    [
+      "",
+      "M13 Saint-François-Xavier\n",
+      "",
+      "48.85149281",
+      "2.314234718",
+      "Sortie 1:  \nSaint-François-Xavier\n(M13)"
+    ],
+    [
+      "",
+      "M13 Varenne\n",
+      "",
+      "48.85688389",
+      "2.315377476",
+      "Sortie 1:  \nVarenne\n(M13)"
+    ],
+    [
+      "",
+      "M13 Invalides",
+      "",
+      "48.86091712",
+      "2.314503083",
+      "Sortie 1:  \nInvalides\n(M13)"
+    ],
+    [
+      "",
+      "M13 Invalides",
+      "",
+      "48.86196812",
+      "2.314893899",
+      "Sortie 2:  \nInvalides\n(M13)"
+    ],
+    [
+      "",
+      "M13 Invalides",
+      "",
+      "48.86260536",
+      "2.314787455",
+      "Sortie 3:  \nInvalides\n(M13)"
+    ],
+    [
+      "",
+      "M13 Invalides",
+      "",
+      "48.86300998",
+      "2.313946317",
+      "Sortie 4:  \nInvalides\n(M13)"
+    ],
+    [
+      "",
+      "M13 Champs-Élysées-Clemenceau",
+      "",
+      "48.86753474",
+      "2.313297803",
+      "Sortie 1:  \nChamps-Élysées-Clemenceau\n(M1, M13)"
+    ],
+    [
+      "",
+      "M13 Champs-Élysées-Clemenceau",
+      "",
+      "48.86725872",
+      "2.312392558",
+      "Sortie 2:  \nChamps-Élysées-Clemenceau\n(M1, M13)"
+    ],
+    [
+      "",
+      "M13 Miromesnil\n",
+      "",
+      "",
+      "",
+      "Sortie 2:  \nChamps-Élysées-Clemenceau\n(M1, M13)"
+    ],
+    [
+      "",
+      "M13 Miromesnil\n"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
+    ],
+    [
+      "",
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ],
     [
       "",
-      "Metro 12"
+      "M13"
     ]
   ]
 }
