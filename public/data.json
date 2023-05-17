@@ -627,7 +627,7 @@
       "",
       "48.83821106",
       "2.316868074",
-      "Sortie 1:  \nMontparnasse–Bienvenüe\n(M12)"
+      "Sortie 1:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
     ],
     [
       "",
@@ -635,7 +635,7 @@
       "",
       "48.84266676",
       "2.320615634",
-      "Sortie 2:  \nMontparnasse–Bienvenüe\n(M12)"
+      "Sortie 2:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
     ],
     [
       "",
@@ -643,7 +643,7 @@
       "",
       "48.84182046",
       "2.32158805",
-      "Sortie 3:  \nMontparnasse–Bienvenüe\n(M12)"
+      "Sortie 3:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
     ],
     [
       "",
@@ -651,7 +651,7 @@
       "",
       "48.84379647",
       "2.324532623",
-      "Sortie 4:  \nMontparnasse–Bienvenüe\n(M12)"
+      "Sortie 4:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
     ],
     [
       "",
@@ -659,7 +659,7 @@
       "",
       "48.84330327",
       "2.324447164",
-      "Sortie 5:  \nMontparnasse–Bienvenüe\n(M12)"
+      "Sortie 5:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
     ],
     [
       "",
@@ -667,7 +667,7 @@
       "",
       "48.84342152",
       "2.323377833",
-      "Sortie 6:  \nMontparnasse–Bienvenüe\n(M12)"
+      "Sortie 6:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
     ],
     [
       "",
@@ -675,7 +675,7 @@
       "",
       "48.84424063",
       "2.323202533",
-      "Sortie 7:  \nMontparnasse–Bienvenüe\n(M12)"
+      "Sortie 7:  \nMontparnasse–Bienvenüe\n(M4, M6, M12, M13)"
     ],
     [
       "",
@@ -691,7 +691,7 @@
       "",
       "48.84266",
       "2.31261",
-      "Sortie 1:  \nPasteur\n(M12)"
+      "Sortie 1:  \nPasteur\n(M6, M12)"
     ],
     [
       "",
@@ -699,7 +699,7 @@
       "",
       "48.84301",
       "2.31252",
-      "Sortie 2:  \nPasteur\n(M12)"
+      "Sortie 2:  \nPasteur\n(M6, M12)"
     ],
     [
       "",
@@ -831,35 +831,51 @@
     ],
     [
       "",
-      "M13 Châtillon – Montrouge",
+      "M13 Châtillon–Montrouge",
       "",
       "48.81058833",
       "2.301975337",
-      "Sortie 1:  \nChâtillon – Montrouge\n(M13)"
+      "Sortie 1:  \nChâtillon–Montrouge\n(M13)"
     ],
     [
       "",
-      "M13 Châtillon – Montrouge",
+      "M13 Châtillon–Montrouge",
       "",
       "48.81057813",
       "2.301005382",
-      "Sortie 2:  \nChâtillon – Montrouge\n(M13)"
+      "Sortie 2:  \nChâtillon–Montrouge\n(M13)"
     ],
     [
       "",
-      "Metro 12"
+      "M13 Malakoff–Rue Étienne Dolet",
+      "",
+      "48.81517412",
+      "2.297405613",
+      "Sortie 1:  \nMalakoff–Rue Étienne Dolet\n(M13)"
     ],
     [
       "",
-      "Metro 12"
+      "M13 Malakoff–Plateau de Vanves",
+      "",
+      "48.82258362",
+      "2.298366522",
+      "Sortie 1:  \nMalakoff–Plateau de Vanves\n(M13)"
     ],
     [
       "",
-      "Metro 12"
+      "M13 Malakoff–Plateau de Vanves",
+      "",
+      "48.82247149",
+      "2.29859644",
+      "Sortie 2:  \nMalakoff–Plateau de Vanves\n(M13)"
     ],
     [
       "",
-      "Metro 12"
+      "M13 Porte de Vanves\n",
+      "",
+      "",
+      "",
+      "Sortie 1:  \nPorte de Vanves\n(M13)"
     ],
     [
       "",
