@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1088",
+  "range": "'スポットデータ'!A1:J1090",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -451,7 +451,7 @@
       "",
       "48.86636572",
       "2.323767042",
-      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
+      "Sortie 2:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
@@ -459,7 +459,7 @@
       "",
       "48.86650335",
       "2.323702669",
-      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
+      "Sortie 3:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
@@ -467,7 +467,7 @@
       "",
       "48.86530354",
       "2.322704888",
-      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
+      "Sortie 4:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
@@ -475,11 +475,27 @@
       "",
       "48.86601637",
       "2.324963308",
-      "Sortie 1:  \nConcorde\n(M1, M8, M12)"
+      "Sortie 5:  \nConcorde\n(M1, M8, M12)"
     ],
     [
       "",
-      " Rue du Bac\r\n",
+      "M12　Concorde\n",
+      "",
+      "48.86673977",
+      "2.322533226",
+      "Sortie 6:  \nConcorde\n(M1, M8, M12)"
+    ],
+    [
+      "",
+      "M12　Concorde\n",
+      "",
+      "48.86708559",
+      "2.321401334",
+      "Sortie 7:  \nConcorde\n(M1, M8, M12)"
+    ],
+    [
+      "",
+      "M12 Rue du Bac\n",
       "",
       "48.86673977",
       "2.322533226",
@@ -551,31 +567,59 @@
     ],
     [
       "",
-      "Metro 12"
+      "M12 Sèvres - Babylone\n",
+      "",
+      "48.85175475",
+      "2.327143244",
+      "Sortie 1:  \nSèvres - Babylone\n(M10, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Sèvres - Babylone\n",
+      "",
+      "48.8507911",
+      "2.325254969",
+      "Sortie 2:  \nSèvres - Babylone\n(M10, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Sèvres - Babylone\n",
+      "",
+      "48.8515006",
+      "2.326652399",
+      "Sortie 3:  \nSèvres - Babylone\n(M10, M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Rennes\n",
+      "",
+      "48.84817184",
+      "2.327795021",
+      "Sortie 1:  \nRennes\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Rennes\n",
+      "",
+      "48.84839423",
+      "2.327738694",
+      "Sortie 2:  \nRennes\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Notre-Dame-des-Champs\n",
+      "",
+      "48.84461039",
+      "2.328827243",
+      "Sortie 1:  \nNotre-Dame-des-Champs\n(M12)"
     ],
     [
       "",
-      "Metro 12"
+      "M12 Notre-Dame-des-Champs\n",
+      "",
+      "48.84493287",
+      "2.328757934",
+      "Sortie 2:  \nNotre-Dame-des-Champs\n(M12)"
     ],
     [
       "",
