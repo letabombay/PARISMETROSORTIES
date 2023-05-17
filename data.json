@@ -315,7 +315,7 @@
       "",
       "48.87556191",
       "2.324282866",
-      "Sortie 1:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 1:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -323,7 +323,7 @@
       "",
       "48.87541141",
       "2.326416993",
-      "Sortie 2:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 2:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -331,7 +331,7 @@
       "",
       "48.87541979",
       "2.326849499",
-      "Sortie 3:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 3:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -339,7 +339,7 @@
       "",
       "48.87601061",
       "2.324994788",
-      "Sortie 4:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 4:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -347,7 +347,7 @@
       "",
       "48.8762234",
       "2.325535253",
-      "Sortie 5:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 5:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -355,7 +355,7 @@
       "",
       "48.87515812",
       "2.324733943",
-      "Sortie 6:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 6:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -363,7 +363,7 @@
       "",
       "48.87480133",
       "2.324685663",
-      "Sortie 7:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 7:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -371,7 +371,7 @@
       "",
       "48.87570719",
       "2.326628923",
-      "Sortie 8:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 8:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -379,7 +379,7 @@
       "",
       "48.87615967",
       "2.326355338",
-      "Sortie 9:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 9:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -387,7 +387,7 @@
       "",
       "48.87571421",
       "2.328632821",
-      "Sortie 10:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 10:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -395,7 +395,7 @@
       "",
       "48.87583623",
       "2.328354989",
-      "Sortie 11:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 11:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1107,7 +1107,7 @@
       "",
       "48.86091712",
       "2.314503083",
-      "Sortie 1:  \nInvalides\n(M13)"
+      "Sortie 1:  \nInvalides\n(M8, M13)"
     ],
     [
       "",
@@ -1115,7 +1115,7 @@
       "",
       "48.86196812",
       "2.314893899",
-      "Sortie 2:  \nInvalides\n(M13)"
+      "Sortie 2:  \nInvalides\n(M8, M13)"
     ],
     [
       "",
@@ -1123,7 +1123,7 @@
       "",
       "48.86260536",
       "2.314787455",
-      "Sortie 3:  \nInvalides\n(M13)"
+      "Sortie 3:  \nInvalides\n(M8, M13)"
     ],
     [
       "",
@@ -1131,7 +1131,7 @@
       "",
       "48.86300998",
       "2.313946317",
-      "Sortie 4:  \nInvalides\n(M13)"
+      "Sortie 4:  \nInvalides\n(M8, M13)"
     ],
     [
       "",
@@ -1187,7 +1187,7 @@
       "",
       "48.87556191",
       "2.324282866",
-      "Sortie 1:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 1:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1195,7 +1195,7 @@
       "",
       "48.87541141",
       "2.326416993",
-      "Sortie 2:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 2:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1203,7 +1203,7 @@
       "",
       "48.87541979",
       "2.326849499",
-      "Sortie 3:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 3:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1211,7 +1211,7 @@
       "",
       "48.87601061",
       "2.324994788",
-      "Sortie 4:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 4:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1219,7 +1219,7 @@
       "",
       "48.8762234",
       "2.325535253",
-      "Sortie 5:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 5:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1227,7 +1227,7 @@
       "",
       "48.87515812",
       "2.324733943",
-      "Sortie 6:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 6:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1235,7 +1235,7 @@
       "",
       "48.87480133",
       "2.324685663",
-      "Sortie 7:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 7:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1243,7 +1243,7 @@
       "",
       "48.87570719",
       "2.326628923",
-      "Sortie 8:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 8:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1251,7 +1251,7 @@
       "",
       "48.87615967",
       "2.326355338",
-      "Sortie 9:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 9:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1259,7 +1259,7 @@
       "",
       "48.87571421",
       "2.328632821",
-      "Sortie 10:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 10:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1267,7 +1267,7 @@
       "",
       "48.87583623",
       "2.328354989",
-      "Sortie 11:  \nSaint-Lazare\n(M8, M12, M14)"
+      "Sortie 11:  \nSaint-Lazare\n(M3, M12, M13, M14)"
     ],
     [
       "",
@@ -1281,73 +1281,121 @@
       "",
       "M13 Place de Clichy\n",
       "",
-      "",
-      "",
+      "48.88361647",
+      "2.327788365",
       "Sortie 1:  \nPlace de Clichy\n(M2, M13)"
     ],
     [
       "",
       "M13 Place de Clichy\n",
       "",
-      "",
-      "",
+      "48.8844422",
+      "2.329282336",
       "Sortie 1:  \nPlace de Clichy\n(M2, M13)"
     ],
     [
       "",
       "M13 Place de Clichy\n",
       "",
-      "",
-      "",
+      "48.88365535",
+      "2.326938767",
       "Sortie 1:  \nPlace de Clichy\n(M2, M13)"
     ],
     [
       "",
-      "M13"
+      "M13 La Fourche\n",
+      "",
+      "48.88768509",
+      "2.325365094",
+      "Sortie 1:  \nLa Fourche\n(M13)"
     ],
     [
       "",
-      "M13"
+      "M13 La Fourche\n",
+      "",
+      "48.88771006",
+      "2.325534715",
+      "Sortie 2:  \nLa Fourche\n(M13)"
     ],
     [
       "",
-      "M13"
+      "M13 Brochant\n",
+      "",
+      "48.89042385",
+      "2.320116059",
+      "Sortie 1:  \nBrochant\n(M13)"
     ],
     [
       "",
-      "M13"
+      "M13 Brochant\n",
+      "",
+      "48.89049589",
+      "2.319959532",
+      "Sortie 2:  \nBrochant\n(M13)"
     ],
     [
       "",
-      "M13"
+      "M13 Porte de Clichy",
+      "",
+      "48.89417311677793, 2.3136709197784695",
+      "",
+      "Sortie 1:  \nPorte de Clichy\n(M13, M14)"
     ],
     [
       "",
-      "M13"
+      "M13 Porte de Clichy",
+      "",
+      "48.89438618",
+      "2.314189978",
+      "Sortie 1:  \nPorte de Clichy\n(M13, M14)"
     ],
     [
       "",
-      "M13"
+      "M13 Porte de Clichy",
+      "",
+      "48.89498216",
+      "2.313945592",
+      "Sortie 1:  \nPorte de Clichy\n(M13, M14)"
     ],
     [
       "",
-      "M13"
+      "M13 Porte de Clichy",
+      "",
+      "48.8949177",
+      "2.313093082",
+      "Sortie 1:  \nPorte de Clichy\n(M13, M14)"
     ],
     [
       "",
-      "M13"
+      "M13 Porte de Clichy",
+      "",
+      "48.89489885",
+      "2.311618844",
+      "Sortie 1:  \nPorte de Clichy\n(M13, M14)"
     ],
     [
       "",
-      "M13"
+      "M13 Porte de Clichy",
+      "",
+      "48.89424531",
+      "2.312816022",
+      "Sortie 1:  \nPorte de Clichy\n(M13, M14)"
     ],
     [
       "",
-      "M13"
+      "M13 Porte de Clichy",
+      "",
+      "48.89398896399117, 2.3145480694501717",
+      "",
+      "Sortie 1:  \nPorte de Clichy\n(M13, M14)"
     ],
     [
       "",
-      "M13"
+      "M13 Porte de Clichy",
+      "",
+      "48.894504129075216, 2.3171143363229243",
+      "",
+      "Sortie 1:  \nPorte de Clichy\n(M13, M14)"
     ],
     [
       "",
