@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1090",
+  "range": "'スポットデータ'!A1:J1089",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -20,14 +20,6 @@
       "https://letabombay.github.io/PARISMETROSORTIES/corentincelton_sortie_1",
       "48.82462",
       "2.27317"
-    ],
-    [
-      "",
-      "Metro 12",
-      "",
-      "35.67991226",
-      "139.8082672",
-      "Sortie 1: \nMairie d'Aubervilliers\n(M12)"
     ],
     [
       "",
@@ -812,7 +804,7 @@
       "48.82675",
       "2.27859",
       "Sortie 3:  \nCorentin Celton\n(M12)",
-      "Mairie d'Issy direction only (South bound).\nDirect access to ground level\n2nd car"
+      "Mairie d'Issy direction only (South bound).\nDirect access to ground level from 2nd car"
     ],
     [
       "",
