@@ -793,8 +793,8 @@
       "",
       "M12 Corentin Celton\n",
       "",
-      "48.8246",
-      "2,2.27317",
+      "48.82462",
+      "2.27317",
       "Sortie 1:  \nCorentin Celton\n(M12)"
     ],
     [
@@ -811,8 +811,8 @@
       "",
       "48.82675",
       "2.27859",
-      "Sortie 3:  \nMairie d'Issy\n(M12)",
-      "Mairie d'Issy"
+      "Sortie 3:  \nCorentin Celton\n(M12)",
+      "Mairie d'Issy direction only (South bound).\nDirect access to ground level\n2nd car"
     ],
     [
       "",
@@ -1722,7 +1722,7 @@
       "",
       "Saint-Ouen (M14)",
       "",
-      "2.320844504",
+      "48.90359057",
       "2.320284839",
       "Sortie 5:\n Saint-Quen\n (M14)"
     ],
@@ -1970,7 +1970,7 @@
       "",
       "Jaurès (M2, M5, M7bis)",
       "",
-      "2.371964281",
+      "48.88171583",
       "2.371964281",
       "Sortie 6\n Jaurès \n (M2, M5, M7bis)"
     ],
