@@ -20,7 +20,7 @@
       "",
       "48.88442927",
       "2.338583519",
-      "Sortie 1\n Abbesses \n (M12)"
+      "Sortie 1: \n Abbesses \n (M12)"
     ],
     [
       "",
@@ -28,7 +28,7 @@
       "",
       "48.90820825",
       "2.377846008",
-      "Sortie 1\n Aimé Césaire\n (M12)"
+      "Sortie 1: \n Aimé Césaire\n (M12)"
     ],
     [
       "",
@@ -36,7 +36,7 @@
       "",
       "48.90763176",
       "2.377234464",
-      "Sortie 2\n Aimé Césaire\n (M12)"
+      "Sortie 2: \n Aimé Césaire\n (M12)"
     ],
     [
       "",
@@ -44,7 +44,7 @@
       "",
       "48.90879001",
       "2.378320759",
-      "Sortie 3\n Aimé Césaire\n (M12)"
+      "Sortie 3: \n Aimé Césaire\n (M12)"
     ],
     [
       "",
@@ -104,7 +104,7 @@
     ],
     [
       "",
-      "Alma–Marceau (M9)",
+      "Alma Marceau (M9)",
       "",
       "48.86486339",
       "2.301752792",
@@ -112,7 +112,7 @@
     ],
     [
       "",
-      "Alma–Marceau (M9)",
+      "Alma Marceau (M9)",
       "",
       "48.8644116",
       "2.30103915",
@@ -120,7 +120,7 @@
     ],
     [
       "",
-      "Alma–Marceau (M9)",
+      "Alma Marceau (M9)",
       "",
       "48.86496688",
       "2.300770912",
@@ -208,19 +208,19 @@
     ],
     [
       "",
-      "Asnières-Gennevilliers Les Courtilles (M13)",
+      "Asnières Gennevilliers Les Courtilles (M13)",
       "",
       "48.93036327",
       "2.283831615",
-      "Sortie 1\n Asnières-Gennevilliers \n Les Courtilles\n (M13)"
+      "Sortie 1: \n Asnières-Gennevilliers \n Les Courtilles\n (M13)"
     ],
     [
       "",
-      "Asnières-Gennevilliers Les Courtilles (M13)",
+      "Asnières Gennevilliers Les Courtilles (M13)",
       "",
       "48.93050657",
       "2.284006103",
-      "Sortie 1\n Asnières-Gennevilliers \n Les Courtilles\n (M13)"
+      "Sortie 1: \n Asnières-Gennevilliers \n Les Courtilles\n (M13)"
     ],
     [
       "",
@@ -228,7 +228,7 @@
       "",
       "48.86127019",
       "2.320373118",
-      "Sortie 1\n Assemblée nationale\n (M12)"
+      "Sortie 1: \n Assemblée nationale\n (M12)"
     ],
     [
       "",
@@ -236,7 +236,7 @@
       "",
       "48.86106285",
       "2.32089749",
-      "Sortie 2\n Assemblée nationale\n (M12)"
+      "Sortie 2: \n Assemblée nationale\n (M12)"
     ],
     [
       "",
@@ -244,11 +244,11 @@
       "",
       "48.86020349",
       "2.321397722",
-      "Sortie 3\n Assemblée nationale\n (M12)"
+      "Sortie 3: \n Assemblée nationale\n (M12)"
     ],
     [
       "",
-      "Aubervilliers-Pantin-Quatre Chemins (M7)",
+      "Aubervilliers Pantin Quatre Chemins (M7)",
       "",
       "48.89746284",
       "2.386085714",
@@ -256,7 +256,7 @@
     ],
     [
       "",
-      "Aubervilliers-Pantin-Quatre Chemins (M7)",
+      "Aubervilliers Pantin Quatre Chemins (M7)",
       "",
       "48.90373188",
       "2.392392498",
@@ -264,7 +264,7 @@
     ],
     [
       "",
-      "Aubervilliers-Pantin-Quatre Chemins (M7)",
+      "Aubervilliers Pantin Quatre Chemins (M7)",
       "",
       "48.90401505",
       "2.391763224",
@@ -272,7 +272,7 @@
     ],
     [
       "",
-      "Aubervilliers-Pantin-Quatre Chemins (M7)",
+      "Aubervilliers Pantin Quatre Chemins (M7)",
       "",
       "48.90375857",
       "2.391769991",
@@ -304,7 +304,7 @@
     ],
     [
       "",
-      "Bagneux-Lucie Aubrac (M4)",
+      "Bagneuxucie Aubrac (M4)",
       "",
       "48.80274988",
       "2.317360055",
@@ -312,7 +312,7 @@
     ],
     [
       "",
-      "Bagneux-Lucie Aubrac (M4)",
+      "Bagneux Lucie Aubrac (M4)",
       "",
       "48.80267037",
       "2.317216119",
@@ -320,7 +320,7 @@
     ],
     [
       "",
-      "Bagneux-Lucie Aubrac (M4)",
+      "Bagneux Lucie Aubrac (M4)",
       "",
       "48.80299477",
       "2.317384653",
@@ -328,7 +328,7 @@
     ],
     [
       "",
-      "Bagneux-Lucie Aubrac (M4)",
+      "Bagneux Lucie Aubrac (M4)",
       "",
       "48.80370967",
       "2.318198713",
@@ -400,7 +400,7 @@
     ],
     [
       "",
-      "Barbès–Rochechouart (M2, M4)",
+      "Barbès Rochechouart (M2, M4)",
       "",
       "48.88370145",
       "2.348905607",
@@ -408,7 +408,7 @@
     ],
     [
       "",
-      "Barbès–Rochechouart (M2, M4)",
+      "Barbès Rochechouart (M2, M4)",
       "",
       "48.88360764",
       "2.348933892",
@@ -416,7 +416,7 @@
     ],
     [
       "",
-      "Barbès–Rochechouart (M2, M4)",
+      "Barbès Rochechouart (M2, M4)",
       "",
       "48.88380416",
       "2.349895595",
@@ -424,7 +424,7 @@
     ],
     [
       "",
-      "Barbès–Rochechouart (M2, M4)",
+      "Barbès Rochechouart (M2, M4)",
       "",
       "48.88371763",
       "2.349946016",
@@ -432,7 +432,7 @@
     ],
     [
       "",
-      "Barbès–Rochechouart (M2, M4)",
+      "Barbès Rochechouart (M2, M4)",
       "",
       "48.88380254",
       "2.350642082",
@@ -440,19 +440,19 @@
     ],
     [
       "",
-      "Basilique de Saint-Denis Hôtel de Ville (M13)",
+      "Basilique de Saint Denis Hôtel de Ville (M13)",
       "",
       "48.93666809",
       "2.359028118",
-      "Sortie 1\n Basilique de Saint-Denis Hôtel de Ville\n (M13)"
+      "Sortie 1:\n Basilique de Saint-Denis Hôtel de Ville\n (M13)"
     ],
     [
       "",
-      "Basilique de Saint-Denis Hôtel de Ville (M13)",
+      "Basilique de Saint Denis Hôtel de Ville (M13)",
       "",
       "48.93719613",
       "2.359564326",
-      "Sortie 2\n Basilique de Saint-Denis Hôtel de Ville\n (M13)"
+      "Sortie 2:\n Basilique de Saint-Denis Hôtel de Ville\n (M13)"
     ],
     [
       "",
@@ -528,7 +528,7 @@
     ],
     [
       "",
-      "Bel-Air (M6)",
+      "Bel Air (M6)",
       "",
       "48.84155178",
       "2.401087811",
@@ -536,7 +536,7 @@
     ],
     [
       "",
-      "Bel-Air (M6)",
+      "Bel Air (M6)",
       "",
       "48.84138889",
       "2.401027119",
@@ -544,7 +544,7 @@
     ],
     [
       "",
-      "Bel-Air (M6)",
+      "Bel Air (M6)",
       "",
       "48.84142946",
       "2.400857373",
@@ -660,7 +660,7 @@
       "",
       "48.82975642",
       "2.375748381",
-      "Sortie 1\n Bibliothèque François Mitterrand \n (M14)"
+      "Sortie 1:\n Bibliothèque François Mitterrand \n (M14)"
     ],
     [
       "",
@@ -668,7 +668,7 @@
       "",
       "48.83054202",
       "2.377111369",
-      "Sortie 2\n Bibliothèque François Mitterrand \n (M14)"
+      "Sortie 2:\n Bibliothèque François Mitterrand \n (M14)"
     ],
     [
       "",
@@ -676,7 +676,7 @@
       "",
       "48.82966273",
       "2.377841134",
-      "Sortie 3\n Bibliothèque François Mitterrand \n (M14)"
+      "Sortie 3:\n Bibliothèque François Mitterrand \n (M14)"
     ],
     [
       "",
@@ -684,7 +684,7 @@
       "",
       "48.82982314",
       "2.37563049",
-      "Sortie 4\n Bibliothèque François Mitterrand \n (M14)"
+      "Sortie 4:\n Bibliothèque François Mitterrand \n (M14)"
     ],
     [
       "",
@@ -720,7 +720,7 @@
     ],
     [
       "",
-      "Bir-Hakeim–Tour Eiffel (M6)",
+      "Bir Hakeim Tour Eiffel (M6)",
       "",
       "48.85391444",
       "2.289383008",
@@ -728,7 +728,7 @@
     ],
     [
       "",
-      "Bir-Hakeim–Tour Eiffel (M6)",
+      "Bir Hakeim Tour Eiffel (M6)",
       "",
       "48.85430271",
       "2.288953855",
@@ -736,7 +736,7 @@
     ],
     [
       "",
-      "Bir-Hakeim–Tour Eiffel (M6)",
+      "Bir Hakeim Tour Eiffel (M6)",
       "",
       "48.8534344",
       "2.289830937",
@@ -752,7 +752,7 @@
     ],
     [
       "",
-      "Bobigny–Pablo Picasso (M5)",
+      "Bobigny Pablo Picasso (M5)",
       "",
       "48.90704824",
       "2.449091696",
@@ -760,7 +760,7 @@
     ],
     [
       "",
-      "Bobigny–Pablo Picasso (M5)",
+      "Bobigny Pablo Picasso (M5)",
       "",
       "48.90721056",
       "2.45000554",
@@ -768,7 +768,7 @@
     ],
     [
       "",
-      "Bobigny–Pablo Picasso (M5)",
+      "Bobigny Pablo Picasso (M5)",
       "",
       "48.907066",
       "2.449931779",
@@ -776,7 +776,7 @@
     ],
     [
       "",
-      "Bobigny–Pablo Picasso (M5)",
+      "Bobigny Pablo Picasso (M5)",
       "",
       "48.90651835",
       "2.44921204",
@@ -784,7 +784,7 @@
     ],
     [
       "",
-      "Bobigny–Pablo Picasso (M5)",
+      "Bobigny Pablo Picasso (M5)",
       "",
       "48.90592988",
       "2.449507192",
@@ -792,7 +792,7 @@
     ],
     [
       "",
-      "Bobigny-Pantin–Raymond Queneau (M5)",
+      "Bobigny Pantin Raymond Queneau (M5)",
       "",
       "48.89559686",
       "2.425276048",
@@ -800,7 +800,7 @@
     ],
     [
       "",
-      "Bobigny-Pantin–Raymond Queneau (M5)",
+      "Bobigny Pantin Raymond Queneau (M5)",
       "",
       "48.89497262",
       "2.425320305",
@@ -921,7 +921,7 @@
     ],
     [
       "",
-      "Boulogne–Jean Jaurès (M10)",
+      "Boulogne Jean Jaurès (M10)",
       "",
       "48.84186126",
       "2.238946277",
@@ -929,7 +929,7 @@
     ],
     [
       "",
-      "Boulogne–Jean Jaurès (M11)",
+      "Boulogne Jean Jaurès (M10)",
       "",
       "48.8421381",
       "2.238806439",
@@ -937,7 +937,7 @@
     ],
     [
       "",
-      "Boulogne–Jean Jaurès (M12)",
+      "Boulogne Jean Jaurès (M10)",
       "",
       "48.8423114",
       "2.240175973",
@@ -945,7 +945,7 @@
     ],
     [
       "",
-      "Boulogne–Pont de Saint-Cloud (M10)",
+      "Boulogne Pont de Saint Cloud (M10)",
       "",
       "48.84053797",
       "2.229095374",
@@ -953,7 +953,7 @@
     ],
     [
       "",
-      "Boulogne–Pont de Saint-Cloud (M10)",
+      "Boulogne Pont de Saint Cloud (M10)",
       "",
       "48.84115583",
       "2.229153041",
@@ -961,7 +961,7 @@
     ],
     [
       "",
-      "Boulogne–Pont de Saint-Cloud (M10)",
+      "Boulogne Pont de Saint Cloud (M10)",
       "",
       "48.84099431",
       "2.227697943",
@@ -969,7 +969,7 @@
     ],
     [
       "",
-      "Boulogne–Pont de Saint-Cloud (M10)",
+      "Boulogne Pont de Saint Cloud (M10)",
       "",
       "48.84071561",
       "2.227638909",
@@ -993,7 +993,7 @@
     ],
     [
       "",
-      "Bréguet–Sabin (M5)",
+      "Bréguet Sabin (M5)",
       "",
       "48.85666254",
       "2.370521591",
@@ -1001,7 +1001,7 @@
     ],
     [
       "",
-      "Bréguet–Sabin (M5)",
+      "Bréguet Sabin (M5)",
       "",
       "48.85564278",
       "2.37006972",
@@ -1013,7 +1013,7 @@
       "",
       "48.89042385",
       "2.320116059",
-      "Sortie 1\n Brochant\n (M13)"
+      "Sortie 1: \n Brochant\n (M13)"
     ],
     [
       "",
@@ -1021,7 +1021,7 @@
       "",
       "48.89049589",
       "2.319959532",
-      "Sortie 2\n Brochant\n (M13)"
+      "Sortie 2: \n Brochant\n (M13)"
     ],
     [
       "",
@@ -1073,7 +1073,7 @@
     ],
     [
       "",
-      "Campo-Formio (M5)",
+      "Campo Formio (M5)",
       "",
       "48.83564467",
       "2.35842019",
@@ -1101,7 +1101,7 @@
       "",
       "48.91943135",
       "2.342820983",
-      "Sortie 1\n Carrefour Pleyel \n (M13)"
+      "Sortie 1:\n Carrefour Pleyel \n (M13)"
     ],
     [
       "",
@@ -1109,7 +1109,7 @@
       "",
       "48.91970536",
       "2.343090438",
-      "Sortie 2\n Carrefour Pleyel \n (M13)"
+      "Sortie 2:\n Carrefour Pleyel \n (M13)"
     ],
     [
       "",
@@ -1117,7 +1117,7 @@
       "",
       "48.91933985",
       "2.343123787",
-      "Sortie 3\n Carrefour Pleyel \n (M13)"
+      "Sortie 3:\n Carrefour Pleyel \n (M13)"
     ],
     [
       "",
@@ -1125,11 +1125,11 @@
       "",
       "48.91960522",
       "2.344041385",
-      "Sortie 4\n Carrefour Pleyel \n (M13)"
+      "Sortie 4:\n Carrefour Pleyel \n (M13)"
     ],
     [
       "",
-      "Censier–Daubenton (M7)",
+      "Censier Daubenton (M7)",
       "",
       "48.84061767",
       "2.351530612",
@@ -1137,7 +1137,7 @@
     ],
     [
       "",
-      "Censier–Daubenton (M7)",
+      "Censier Daubenton (M7)",
       "",
       "48.84041502",
       "2.351511048",
@@ -1145,23 +1145,23 @@
     ],
     [
       "",
-      "Champs-Élysées-Clemenceau (M1, M13)",
+      "Champs Élysées Clemenceau (M1, M13)",
       "",
       "48.86753474",
       "2.313297803",
-      "Sortie 1\n Champs-Élysées\n Clemenceau\n (M1, M13)"
+      "Sortie 1: \n Champs-Élysées\n Clemenceau\n (M1, M13)"
     ],
     [
       "",
-      "Champs-Élysées-Clemenceau (M1, M13)",
+      "Champs Élysées Clemenceau (M1, M13)",
       "",
       "48.86725872",
       "2.312392558",
-      "Sortie 2\n Champs-Élysées\n Clemenceau\n (M1, M13)"
+      "Sortie 2: \n Champs-Élysées\n Clemenceau\n (M1, M13)"
     ],
     [
       "",
-      "Chardon-Lagache (M10)",
+      "Chardon Lagache (M10)",
       "",
       "48.84502543",
       "2.266507554",
@@ -1169,7 +1169,7 @@
     ],
     [
       "",
-      "Charenton-Écoles (M8)",
+      "Charenton Écoles (M8)",
       "",
       "48.82142193",
       "2.414419613",
@@ -1177,7 +1177,7 @@
     ],
     [
       "",
-      "Charenton-Écoles (M8)",
+      "Charenton Écoles (M8)",
       "",
       "48.82108904",
       "2.414602003",
@@ -1185,7 +1185,7 @@
     ],
     [
       "",
-      "Charenton-Écoles (M8)",
+      "Charenton Écoles (M8)",
       "",
       "48.82181222",
       "2.413040958",
@@ -1193,7 +1193,7 @@
     ],
     [
       "",
-      "Charenton-Écoles (M8)",
+      "Charenton Écoles (M8)",
       "",
       "48.82200824",
       "2.412792853",
@@ -1201,7 +1201,7 @@
     ],
     [
       "",
-      "Charenton-Écoles (M8)",
+      "Charenton Écoles (M8)",
       "",
       "48.82227446",
       "2.412319443",
@@ -1209,7 +1209,7 @@
     ],
     [
       "",
-      "Charenton-Écoles (M8)",
+      "Charenton Écoles (M8)",
       "",
       "48.82242942",
       "2.41249714",
@@ -1217,7 +1217,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87340817",
       "2.296846732",
@@ -1225,7 +1225,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87406608",
       "2.296921078",
@@ -1233,7 +1233,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87409276",
       "2.29621479",
@@ -1241,7 +1241,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87464212",
       "2.296000055",
@@ -1249,7 +1249,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87465005",
       "2.295363079",
@@ -1257,7 +1257,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87516385",
       "2.293607885",
@@ -1273,7 +1273,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87456781",
       "2.293425031",
@@ -1281,7 +1281,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87409666",
       "2.293082431",
@@ -1289,7 +1289,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87343189",
       "2.292540353",
@@ -1297,7 +1297,7 @@
     ],
     [
       "",
-      "Charles de Gaulle–Étoile (M1, M2, M6)",
+      "Charles de Gaulle Étoile (M1, M2, M6)",
       "",
       "48.87524",
       "2.296341796",
@@ -1529,7 +1529,7 @@
     ],
     [
       "",
-      "Châtillon–Montrouge (M13)",
+      "Châtillon Montrouge (M13)",
       "",
       "48.81058833",
       "2.301975337",
@@ -1537,7 +1537,7 @@
     ],
     [
       "",
-      "Châtillon–Montrouge (M13)",
+      "Châtillon Montrouge (M13)",
       "",
       "48.81057813",
       "2.301005382",
@@ -1545,7 +1545,7 @@
     ],
     [
       "",
-      "Chaussée d'Antin–La Fayette (M7, M9)",
+      "Chaussée d'Antin La Fayette (M7, M9)",
       "",
       "48.87312334",
       "2.333107531",
@@ -1553,7 +1553,7 @@
     ],
     [
       "",
-      "Chaussée d'Antin–La Fayette (M7, M9)",
+      "Chaussée d'Antin La Fayette (M7, M9)",
       "",
       "48.87320109",
       "2.333301007",
@@ -1561,7 +1561,7 @@
     ],
     [
       "",
-      "Chaussée d'Antin–La Fayette (M7, M9)",
+      "Chaussée d'Antin La Fayette (M7, M9)",
       "",
       "48.87292174",
       "2.332861543",
@@ -1569,7 +1569,7 @@
     ],
     [
       "",
-      "Chaussée d'Antin–La Fayette (M7, M9)",
+      "Chaussée d'Antin La Fayette (M7, M9)",
       "",
       "48.87297385",
       "2.333721124",
@@ -1577,7 +1577,7 @@
     ],
     [
       "",
-      "Chaussée d'Antin–La Fayette (M7, M9)",
+      "Chaussée d'Antin La Fayette (M7, M9)",
       "",
       "48.87281206",
       "2.333630835",
@@ -1585,7 +1585,7 @@
     ],
     [
       "",
-      "Chaussée d'Antin–La Fayette (M7, M9)",
+      "Chaussée d'Antin La Fayette (M7, M9)",
       "",
       "48.87276237",
       "2.335185081",
@@ -1633,7 +1633,7 @@
     ],
     [
       "",
-      "Cluny–La Sorbonne (M10)",
+      "Cluny La Sorbonne (M10)",
       "",
       "48.85143133",
       "2.343412549",
@@ -1641,7 +1641,7 @@
     ],
     [
       "",
-      "Cluny–La Sorbonne (M11)",
+      "Cluny La Sorbonne (M10)",
       "",
       "48.85126605",
       "2.343338202",
@@ -1649,7 +1649,7 @@
     ],
     [
       "",
-      "Cluny–La Sorbonne (M12)",
+      "Cluny La Sorbonne (M10)",
       "",
       "48.85098054",
       "2.345313383",
@@ -1685,7 +1685,7 @@
       "",
       "48.86633749",
       "2.323472",
-      "Sortie 1\n Concorde\n (M1, M8, M12)"
+      "Sortie 1: \n Concorde\n (M1, M8, M12)"
     ],
     [
       "",
@@ -1693,7 +1693,7 @@
       "",
       "48.86636572",
       "2.323767042",
-      "Sortie 2\n Concorde\n (M1, M8, M12)"
+      "Sortie 2: \n Concorde\n (M1, M8, M12)"
     ],
     [
       "",
@@ -1701,7 +1701,7 @@
       "",
       "48.86650335",
       "2.323702669",
-      "Sortie 3\n Concorde\n (M1, M8, M12)"
+      "Sortie 3: \n Concorde\n (M1, M8, M12)"
     ],
     [
       "",
@@ -1709,7 +1709,7 @@
       "",
       "48.86530354",
       "2.322704888",
-      "Sortie 4\n Concorde\n (M1, M8, M12)"
+      "Sortie 4: \n Concorde\n (M1, M8, M12)"
     ],
     [
       "",
@@ -1717,7 +1717,7 @@
       "",
       "48.86601637",
       "2.324963308",
-      "Sortie 5\n Concorde\n (M1, M8, M12)"
+      "Sortie 5: \n Concorde\n (M1, M8, M12)"
     ],
     [
       "",
@@ -1725,7 +1725,7 @@
       "",
       "48.86673977",
       "2.322533226",
-      "Sortie 6\n Concorde\n (M1, M8, M12)"
+      "Sortie 6: \n Concorde\n (M1, M8, M12)"
     ],
     [
       "",
@@ -1733,7 +1733,7 @@
       "",
       "48.86708559",
       "2.321401334",
-      "Sortie 7\n Concorde\n (M1, M8, M12)"
+      "Sortie 7: \n Concorde\n (M1, M8, M12)"
     ],
     [
       "",
@@ -1741,7 +1741,7 @@
       "",
       "48.83738586",
       "2.296397861",
-      "Sortie 1\n Convention\n (M12)"
+      "Sortie 1: \n Convention\n (M12)"
     ],
     [
       "",
@@ -1749,7 +1749,7 @@
       "",
       "48.83724198",
       "2.296733137",
-      "Sortie 2\n Convention\n (M12)"
+      "Sortie 2: \n Convention\n (M12)"
     ],
     [
       "",
@@ -1773,7 +1773,7 @@
       "",
       "48.82728973",
       "2.278940096",
-      "Sortie 1\n Corentin Celton\n (M12)"
+      "Sortie 1: \n Corentin Celton\n (M12)"
     ],
     [
       "",
@@ -1781,15 +1781,15 @@
       "",
       "48.82729",
       "2.27907",
-      "Sortie 2\n Corentin Celton\n (M12)"
+      "Sortie 2: \n Corentin Celton\n (M12)"
     ],
     [
       "",
       "Corentin Celton (M12)",
       "",
-      "48.8273887",
-      "2.279226362",
-      "Sortie 3\n Corentin Celton\n (M12)",
+      "48.82675",
+      "2.27859",
+      "Sortie 3: \n Mairie d'Issy\n (M12)",
       "Mairie d'Issy direction only (South bound).\nDirect access to ground level from 3rd car."
     ],
     [
@@ -1834,7 +1834,7 @@
     ],
     [
       "",
-      "Créteil-L'Échat (M8)",
+      "Créteil L'Échat (M8)",
       "",
       "48.79679299",
       "2.448715972",
@@ -1842,7 +1842,7 @@
     ],
     [
       "",
-      "Créteil-L'Échat (M8)",
+      "Créteil L'Échat (M8)",
       "",
       "48.7966861",
       "2.449589031",
@@ -1850,7 +1850,7 @@
     ],
     [
       "",
-      "Créteil-L'Échat (M8)",
+      "Créteil L'Échat (M8)",
       "",
       "48.7962541",
       "2.449403959",
@@ -1858,7 +1858,7 @@
     ],
     [
       "",
-      "Créteil-Pointe du Lac (M8)",
+      "Créteil Pointe du Lac (M8)",
       "",
       "48.76878103",
       "2.464491747",
@@ -1866,7 +1866,7 @@
     ],
     [
       "",
-      "Créteil-Pointe du Lac (M8)",
+      "Créteil Pointe du Lac (M8)",
       "",
       "48.76865999",
       "2.464267452",
@@ -1874,7 +1874,7 @@
     ],
     [
       "",
-      "Créteil-Préfecture (M8)",
+      "Créteil Préfecture (M8)",
       "",
       "48.77974841",
       "2.459221225",
@@ -1882,7 +1882,7 @@
     ],
     [
       "",
-      "Créteil-Préfecture (M8)",
+      "Créteil Préfecture (M8)",
       "",
       "48.7797614",
       "2.459525809",
@@ -1890,7 +1890,7 @@
     ],
     [
       "",
-      "Créteil-Université (M8)",
+      "Créteil Université (M8)",
       "",
       "48.78964919",
       "2.450651218",
@@ -1898,7 +1898,7 @@
     ],
     [
       "",
-      "Créteil-Université (M8)",
+      "Créteil Université (M8)",
       "",
       "48.78976229",
       "2.450873841",
@@ -2010,27 +2010,27 @@
     ],
     [
       "",
-      "Denfert-Rochereau (M4, M6)",
+      "Denfert Rochereau (M4, M6)",
       "",
       "48.83417436",
       "2.33199749",
-      "Sortie 1\n Denfert-Rochereau \n (M4, M6)"
+      "Sortie 1\n Denfert-Rochereau \n (M6)"
     ],
     [
       "",
-      "Denfert-Rochereau (M4, M6)",
+      "Denfert Rochereau (M4, M6)",
       "",
       "48.83353596",
       "2.331589252",
-      "Sortie 2\n Denfert-Rochereau \n (M4, M6)"
+      "Sortie 2\n Denfert-Rochereau \n (M6)"
     ],
     [
       "",
-      "Denfert-Rochereau (M4, M6)",
+      "Denfert Rochereau (M4, M6)",
       "",
       "48.83345134",
       "2.33194787",
-      "Sortie 3\n Denfert-Rochereau \n (M4, M6)"
+      "Sortie 3\n Denfert-Rochereau \n (M6)"
     ],
     [
       "",
@@ -2062,7 +2062,7 @@
       "",
       "48.84709746",
       "2.316254218",
-      "Sortie 1\n Duroc\n (M13)"
+      "Sortie 1: \n Duroc\n (M13)"
     ],
     [
       "",
@@ -2070,7 +2070,7 @@
       "",
       "48.84708482",
       "2.316862788",
-      "Sortie 2\n Duroc\n (M13)"
+      "Sortie 2: \n Duroc\n (M13)"
     ],
     [
       "",
@@ -2078,7 +2078,7 @@
       "",
       "48.84688751",
       "2.317151456",
-      "Sortie 3\n Duroc\n (M13)"
+      "Sortie 3: \n Duroc\n (M13)"
     ],
     [
       "",
@@ -2086,7 +2086,7 @@
       "",
       "48.84666395",
       "2.316610802",
-      "Sortie 4\n Duroc\n (M13)"
+      "Sortie 4: \n Duroc\n (M13)"
     ],
     [
       "",
@@ -2202,7 +2202,7 @@
     ],
     [
       "",
-      "Esplanade-de-la-Defense (M1)",
+      "Esplanade de la Defense (M1)",
       "",
       "48.8885204",
       "2.249293066",
@@ -2210,7 +2210,7 @@
     ],
     [
       "",
-      "Esplanade-de-la-Defense (M1)",
+      "Esplanade de la Defense (M1)",
       "",
       "48.88804466",
       "2.24896986",
@@ -2218,7 +2218,7 @@
     ],
     [
       "",
-      "Esplanade-de-la-Defense (M1)",
+      "Esplanade de la Defense (M1)",
       "",
       "48.88760547",
       "2.25038748",
@@ -2226,7 +2226,7 @@
     ],
     [
       "",
-      "Esplanade-de-la-Defense (M1)",
+      "Esplanade de la Defense (M1)",
       "",
       "48.8878117",
       "2.250421564",
@@ -2242,7 +2242,7 @@
     ],
     [
       "",
-      "Europe–Simone Veil (M3)",
+      "Europe Simone Veil (M3)",
       "",
       "48.87888522",
       "2.322814042",
@@ -2274,7 +2274,7 @@
     ],
     [
       "",
-      "Faidherbe-Chaligny (M8)",
+      "Faidherbe Chaligny (M8)",
       "",
       "48.85029614",
       "2.384187935",
@@ -2282,7 +2282,7 @@
     ],
     [
       "",
-      "Faidherbe-Chaligny (M8)",
+      "Faidherbe Chaligny (M8)",
       "",
       "48.84989979",
       "2.38419302",
@@ -2290,7 +2290,7 @@
     ],
     [
       "",
-      "Faidherbe-Chaligny (M8)",
+      "Faidherbe Chaligny (M8)",
       "",
       "48.85038194",
       "2.382783442",
@@ -2422,7 +2422,7 @@
       "",
       "48.90643955",
       "2.36649158",
-      "Sortie 1\n Front populaire \n (M12)"
+      "Sortie 1: \n Front populaire \n (M12)"
     ],
     [
       "",
@@ -2430,7 +2430,7 @@
       "",
       "48.90684504",
       "2.366749072",
-      "Sortie 2\n Front populaire \n (M12)"
+      "Sortie 2: \n Front populaire \n (M12)"
     ],
     [
       "",
@@ -2438,7 +2438,7 @@
       "",
       "48.9065277",
       "2.364490653",
-      "Sortie 3\n Front populaire \n (M12)"
+      "Sortie 3: \n Front populaire \n (M12)"
     ],
     [
       "",
@@ -2446,7 +2446,7 @@
       "",
       "48.91657249",
       "2.295285227",
-      "Sortie 1\n Gabriel Péri\n (M13)"
+      "Sortie 1: \n Gabriel Péri\n (M13)"
     ],
     [
       "",
@@ -2454,7 +2454,7 @@
       "",
       "48.91620285",
       "2.294548439",
-      "Sortie 2\n Gabriel Péri\n (M13)"
+      "Sortie 2: \n Gabriel Péri\n (M13)"
     ],
     [
       "",
@@ -2462,7 +2462,7 @@
       "",
       "48.83841706",
       "2.322195261",
-      "Sortie 1\n Gaîté\n (M13)"
+      "Sortie 1: \n Gaîté\n (M13)"
     ],
     [
       "",
@@ -2470,7 +2470,7 @@
       "",
       "48.83857153",
       "2.32190223",
-      "Sortie 2\n Gaîté\n (M13)"
+      "Sortie 2: \n Gaîté\n (M13)"
     ],
     [
       "",
@@ -2478,7 +2478,7 @@
       "",
       "48.83873395",
       "2.322065844",
-      "Sortie 3\n Gaîté\n (M13)"
+      "Sortie 3: \n Gaîté\n (M13)"
     ],
     [
       "",
@@ -2486,7 +2486,7 @@
       "",
       "48.8387825",
       "2.322613686",
-      "Sortie 4\n Gaîté\n (M13)"
+      "Sortie 4: \n Gaîté\n (M13)"
     ],
     [
       "",
@@ -2494,7 +2494,7 @@
       "",
       "48.83842986",
       "2.322757184",
-      "Sortie 5\n Gaîté\n (M13)"
+      "Sortie 5: \n Gaîté\n (M13)"
     ],
     [
       "",
@@ -2518,7 +2518,7 @@
       "",
       "48.86500236",
       "2.398846971",
-      "Sortie 1\n Gambetta \n (M11, M3bis)"
+      "Sortie 1:\n Gambetta \n (M11, M3bis)"
     ],
     [
       "",
@@ -2526,7 +2526,7 @@
       "",
       "48.86521553",
       "2.398538108",
-      "Sortie 2\n Gambetta \n (M11, M3bis)"
+      "Sortie 2:\n Gambetta \n (M11, M3bis)"
     ],
     [
       "",
@@ -2534,7 +2534,7 @@
       "",
       "48.86462",
       "2.398481767",
-      "Sortie 3\n Gambetta \n (M11, M3bis)"
+      "Sortie 3:\n Gambetta \n (M11, M3bis)"
     ],
     [
       "",
@@ -2542,7 +2542,7 @@
       "",
       "48.86493408",
       "2.39521886",
-      "Sortie 4\n Gambetta \n (M11, M3bis)"
+      "Sortie 4:\n Gambetta \n (M11, M3bis)"
     ],
     [
       "",
@@ -2550,7 +2550,7 @@
       "",
       "48.86507013",
       "2.394900665",
-      "Sortie 5\n Gambetta \n (M11, M3bis)"
+      "Sortie 5:\n Gambetta \n (M11, M3bis)"
     ],
     [
       "",
@@ -2694,7 +2694,7 @@
       "",
       "48.90602389",
       "2.331707334",
-      "Sortie 1\n Garbaldi \n (M13)"
+      "Sortie 1:\n Garbaldi \n (M13)"
     ],
     [
       "",
@@ -2702,7 +2702,7 @@
       "",
       "48.90637232",
       "2.33183251",
-      "Sortie 2\n Garbaldi \n (M14)"
+      "Sortie 2:\n Garbaldi \n (M14)"
     ],
     [
       "",
@@ -2710,7 +2710,7 @@
       "",
       "48.90620714",
       "2.33200605",
-      "Sortie 3\n Garbaldi \n (M15)"
+      "Sortie 3:\n Garbaldi \n (M15)"
     ],
     [
       "",
@@ -2846,7 +2846,7 @@
       "",
       "48.89279032",
       "2.327223862",
-      "Sortie 1\n Guy Môquet \n (M13)"
+      "Sortie 1:\n Guy Môquet \n (M13)"
     ],
     [
       "",
@@ -2854,7 +2854,7 @@
       "",
       "48.89305778",
       "2.327124004",
-      "Sortie 2\n Guy Môquet \n (M13)"
+      "Sortie 2:\n Guy Môquet \n (M13)"
     ],
     [
       "",
@@ -2862,7 +2862,7 @@
       "",
       "48.89284006",
       "2.327479594",
-      "Sortie 3\n Guy Môquet \n (M13)"
+      "Sortie 3:\n Guy Môquet \n (M13)"
     ],
     [
       "",
@@ -2870,11 +2870,11 @@
       "",
       "48.89155659",
       "2.3270712",
-      "Sortie 4\n Guy Môquet \n (M13)"
+      "Sortie 4:\n Guy Môquet \n (M13)"
     ],
     [
       "",
-      "Havre–Caumartin (M3, M9)",
+      "Havre Caumartin (M3, M9)",
       "",
       "48.87378757",
       "2.327639212",
@@ -2882,7 +2882,7 @@
     ],
     [
       "",
-      "Havre–Caumartin (M3, M9)",
+      "Havre Caumartin (M3, M9)",
       "",
       "48.87372734",
       "2.328089512",
@@ -2890,7 +2890,7 @@
     ],
     [
       "",
-      "Havre–Caumartin (M3, M9)",
+      "Havre Caumartin (M3, M9)",
       "",
       "48.87381246",
       "2.327437735",
@@ -2898,7 +2898,7 @@
     ],
     [
       "",
-      "Havre–Caumartin (M3, M9)",
+      "Havre Caumartin (M3, M9)",
       "",
       "48.87358444",
       "2.327896393",
@@ -2906,7 +2906,7 @@
     ],
     [
       "",
-      "Havre–Caumartin (M3, M9)",
+      "Havre Caumartin (M3, M9)",
       "",
       "48.87344993",
       "2.328575662",
@@ -3022,7 +3022,7 @@
       "",
       "48.86091712",
       "2.314503083",
-      "Sortie 1\n Invalides\n (M8, M13)"
+      "Sortie 1: \n Invalides\n (M8, M13)"
     ],
     [
       "",
@@ -3030,7 +3030,7 @@
       "",
       "48.86196812",
       "2.314893899",
-      "Sortie 2\n Invalides\n (M8, M13)"
+      "Sortie 2: \n Invalides\n (M8, M13)"
     ],
     [
       "",
@@ -3038,7 +3038,7 @@
       "",
       "48.86260536",
       "2.314787455",
-      "Sortie 3\n Invalides\n (M8, M13)"
+      "Sortie 3: \n Invalides\n (M8, M13)"
     ],
     [
       "",
@@ -3046,7 +3046,7 @@
       "",
       "48.86300998",
       "2.313946317",
-      "Sortie 4\n Invalides\n (M8, M13)"
+      "Sortie 4: \n Invalides\n (M8, M13)"
     ],
     [
       "",
@@ -3130,7 +3130,7 @@
     ],
     [
       "",
-      "Javel–André Citroën (M10)",
+      "Javel André Citroën (M10)",
       "",
       "48.84619451",
       "2.27773911",
@@ -3138,7 +3138,7 @@
     ],
     [
       "",
-      "Javel–André Citroën (M10)",
+      "Javel André Citroën (M10)",
       "",
       "48.84605948",
       "2.277712288",
@@ -3146,7 +3146,7 @@
     ],
     [
       "",
-      "Javel–André Citroën (M10)",
+      "Javel André Citroën (M10)",
       "",
       "48.84634145",
       "2.278840828",
@@ -3182,7 +3182,7 @@
       "",
       "48.89253246",
       "2.344650761",
-      "Sortie 1\n Jules Joffrin \n (M12)"
+      "Sortie 1: \n Jules Joffrin \n (M12)"
     ],
     [
       "",
@@ -3190,7 +3190,7 @@
       "",
       "48.89248925",
       "2.344173328",
-      "Sortie 2\n Jules Joffrin \n (M12)"
+      "Sortie 2: \n Jules Joffrin \n (M12)"
     ],
     [
       "",
@@ -3226,7 +3226,7 @@
     ],
     [
       "",
-      "La Courneuve-8 Mai 1945 (M7)",
+      "La Courneuve 8 Mai 1945 (M7)",
       "",
       "48.92079458",
       "2.411054658",
@@ -3234,7 +3234,7 @@
     ],
     [
       "",
-      "La Courneuve-8 Mai 1945 (M7)",
+      "La Courneuve 8 Mai 1945 (M7)",
       "",
       "48.92107027",
       "2.410546517",
@@ -3242,7 +3242,7 @@
     ],
     [
       "",
-      "La Courneuve-8 Mai 1945 (M7)",
+      "La Courneuve 8 Mai 1945 (M7)",
       "",
       "48.92076719",
       "2.410194727",
@@ -3250,7 +3250,7 @@
     ],
     [
       "",
-      "La Courneuve-8 Mai 1945 (M7)",
+      "La Courneuve 8 Mai 1945 (M7)",
       "",
       "48.9205052",
       "2.410718826",
@@ -3338,7 +3338,7 @@
     ],
     [
       "",
-      "La Motte-Picquet Grenelle (M6, M8, M10)",
+      "La Motte Picquet Grenelle (M6, M8, M10)",
       "",
       "48.84888457",
       "2.298484613",
@@ -3346,7 +3346,7 @@
     ],
     [
       "",
-      "La Motte-Picquet Grenelle (M6, M8, M10)",
+      "La Motte Picquet Grenelle (M6, M8, M10)",
       "",
       "48.84923661",
       "2.298363624",
@@ -3354,7 +3354,7 @@
     ],
     [
       "",
-      "La Motte-Picquet Grenelle (M6, M8, M10)",
+      "La Motte Picquet Grenelle (M6, M8, M10)",
       "",
       "48.84930983",
       "2.298486612",
@@ -3362,7 +3362,7 @@
     ],
     [
       "",
-      "La Motte-Picquet Grenelle (M6, M8, M10)",
+      "La Motte Picquet Grenelle (M6, M8, M10)",
       "",
       "48.84855106",
       "2.299592522",
@@ -3378,7 +3378,7 @@
     ],
     [
       "",
-      "La Motte-Picquet Grenelle (M6, M8, M10)",
+      "La Motte Picquet Grenelle (M6, M8, M10)",
       "",
       "48.8507157",
       "2.300164746",
@@ -3402,7 +3402,7 @@
     ],
     [
       "",
-      "La Tour-Maubourg (M8)",
+      "La Tour Maubourg (M8)",
       "",
       "48.85777885",
       "2.31014743",
@@ -3410,7 +3410,7 @@
     ],
     [
       "",
-      "La Tour-Maubourg (M8)",
+      "La Tour Maubourg (M8)",
       "",
       "48.85802592",
       "2.310448991",
@@ -3418,7 +3418,7 @@
     ],
     [
       "",
-      "Lamarck-Caulaincourt (M12)",
+      "Lamarck Caulaincourt (M12)",
       "",
       "48.88981185",
       "2.338641546",
@@ -3450,7 +3450,7 @@
     ],
     [
       "",
-      "Le Kremlin-Bicêtre (M7)",
+      "Le Kremlin Bicêtre (M7)",
       "",
       "48.81028744",
       "2.361993928",
@@ -3458,7 +3458,7 @@
     ],
     [
       "",
-      "Le Kremlin-Bicêtre (M7)",
+      "Le Kremlin Bicêtre (M7)",
       "",
       "48.81029406",
       "2.362359637",
@@ -3474,7 +3474,7 @@
     ],
     [
       "",
-      "Ledru-Rollin (M8)",
+      "Ledru Rollin (M8)",
       "",
       "48.85141204",
       "2.376342957",
@@ -3482,7 +3482,7 @@
     ],
     [
       "",
-      "Ledru-Rollin (M8)",
+      "Ledru Rollin (M8)",
       "",
       "48.85114407",
       "2.376403088",
@@ -3490,7 +3490,7 @@
     ],
     [
       "",
-      "Ledru-Rollin (M8)",
+      "Ledru Rollin (M8)",
       "",
       "48.8511048",
       "2.375772769",
@@ -3498,7 +3498,7 @@
     ],
     [
       "",
-      "Ledru-Rollin (M8)",
+      "Ledru Rollin (M8)",
       "",
       "48.85177904",
       "2.373902641",
@@ -3634,7 +3634,7 @@
     ],
     [
       "",
-      "Les-Sablons (M1)",
+      "Les Sablons (M1)",
       "",
       "48.88142993",
       "2.271543334",
@@ -3642,7 +3642,7 @@
     ],
     [
       "",
-      "Les-Sablons (M1)",
+      "Les Sablons (M1)",
       "",
       "48.88117767",
       "2.271291203",
@@ -3650,7 +3650,7 @@
     ],
     [
       "",
-      "Les-Sablons (M1)",
+      "Les Sablons (M1)",
       "",
       "48.88056209",
       "2.273302863",
@@ -3658,7 +3658,7 @@
     ],
     [
       "",
-      "Les-Sablons (M1)",
+      "Les Sablons (M1)",
       "",
       "48.88080375",
       "2.273351143",
@@ -3746,7 +3746,7 @@
     ],
     [
       "",
-      "Louvre-Rivoli (M1)",
+      "Louvre Rivoli (M1)",
       "",
       "48.86072523",
       "2.340938487",
@@ -3774,7 +3774,7 @@
       "",
       "48.87029169",
       "2.325582307",
-      "Sortie 1\n Madeleine\n (M8, M12, M14)"
+      "Sortie 1: \n Madeleine\n (M8, M12, M14)"
     ],
     [
       "",
@@ -3782,7 +3782,7 @@
       "",
       "48.86965655",
       "2.325190705",
-      "Sortie 2\n Madeleine\n (M8, M12, N14)"
+      "Sortie 2: \n Madeleine\n (M8, M12, N14)"
     ],
     [
       "",
@@ -3790,7 +3790,7 @@
       "",
       "48.86934427",
       "2.325327497",
-      "Sortie 3\n Madeleine\n (M8, N12, M14)"
+      "Sortie 3: \n Madeleine\n (M8, N12, M14)"
     ],
     [
       "",
@@ -3798,7 +3798,7 @@
       "",
       "48.87096563",
       "2.32530604",
-      "Sortie 4\n Madeleine\n (M8, M12, M14)"
+      "Sortie 4: \n Madeleine\n (M8, M12, M14)"
     ],
     [
       "",
@@ -3806,7 +3806,7 @@
       "",
       "48.87110324",
       "2.325104874",
-      "Sortie 5\n Madeleine\n (M8, M12, M14)"
+      "Sortie 5: \n Madeleine\n (M8, M12, M14)"
     ],
     [
       "",
@@ -3814,7 +3814,7 @@
       "",
       "48.91465979",
       "2.380917146",
-      "Sortie 1\n Mairie d'Aubervilliers\n (M12)"
+      "Sortie 1: \n Mairie d'Aubervilliers\n (M12)"
     ],
     [
       "",
@@ -3822,7 +3822,7 @@
       "",
       "48.91422793",
       "2.380659653",
-      "Sortie 2\n Mairie d'Aubervilliers\n (M12)"
+      "Sortie 2: \n Mairie d'Aubervilliers\n (M12)"
     ],
     [
       "",
@@ -3830,7 +3830,7 @@
       "",
       "48.91324432",
       "2.380117847",
-      "Sortie 3\n Mairie d'Aubervilliers\n (M12)"
+      "Sortie 3: \n Mairie d'Aubervilliers\n (M12)"
     ],
     [
       "",
@@ -3838,7 +3838,7 @@
       "",
       "48.91275604",
       "2.37996362",
-      "Sortie 4\n Mairie d'Aubervilliers\n (M12)"
+      "Sortie 4: \n Mairie d'Aubervilliers\n (M12)"
     ],
     [
       "",
@@ -3846,7 +3846,7 @@
       "",
       "48.91415649",
       "2.381033772",
-      "Sortie 5\n Mairie d'Aubervilliers\n (M12)"
+      "Sortie 5: \n Mairie d'Aubervilliers\n (M12)"
     ],
     [
       "",
@@ -3854,7 +3854,7 @@
       "",
       "48.90291675",
       "2.306505932",
-      "Sortie 1\n Mairie de Clichy\n (M13)"
+      "Sortie 1: \n Mairie de Clichy\n (M13)"
     ],
     [
       "",
@@ -3862,7 +3862,7 @@
       "",
       "48.90317308",
       "2.306029158",
-      "Sortie 2\n Mairie de Clichy\n (M13)"
+      "Sortie 2: \n Mairie de Clichy\n (M13)"
     ],
     [
       "",
@@ -3870,7 +3870,7 @@
       "",
       "48.90381401",
       "2.305308457",
-      "Sortie 3\n Mairie de Clichy\n (M13)"
+      "Sortie 3: \n Mairie de Clichy\n (M13)"
     ],
     [
       "",
@@ -3878,7 +3878,7 @@
       "",
       "48.90387708",
       "2.305568305",
-      "Sortie 4\n Mairie de Clichy\n (M13)"
+      "Sortie 4: \n Mairie de Clichy\n (M13)"
     ],
     [
       "",
@@ -3974,7 +3974,7 @@
       "",
       "48.91185047",
       "2.334093678",
-      "Sortie 1\n Mairie de Saint-Ouen\n (M13, M14)"
+      "Sortie 1:\n Mairie de Saint-Ouen\n (M13, M14)"
     ],
     [
       "",
@@ -3982,7 +3982,7 @@
       "",
       "48.9119206",
       "2.333357323",
-      "Sortie 1\n Mairie de Saint-Ouen\n (M13, M14)"
+      "Sortie 1:\n Mairie de Saint-Ouen\n (M13, M14)"
     ],
     [
       "",
@@ -3990,7 +3990,7 @@
       "",
       "48.91234143",
       "2.333782899",
-      "Sortie 1\n Mairie de Saint-Ouen\n (M13, M14)"
+      "Sortie 1:\n Mairie de Saint-Ouen\n (M13, M14)"
     ],
     [
       "",
@@ -3998,7 +3998,7 @@
       "",
       "48.91256539",
       "2.334335091",
-      "Sortie 1\n Mairie de Saint-Ouen\n (M13, M14)"
+      "Sortie 1:\n Mairie de Saint-Ouen\n (M13, M14)"
     ],
     [
       "",
@@ -4006,7 +4006,7 @@
       "",
       "48.91309794",
       "2.334581641",
-      "Sortie 1\n Mairie de Saint-Ouen\n (M13, M14)"
+      "Sortie 1:\n Mairie de Saint-Ouen\n (M13, M14)"
     ],
     [
       "",
@@ -4030,7 +4030,7 @@
       "",
       "48.82414",
       "2.27307",
-      "Sortie 1\n Mairie d'Issy\n (M12)"
+      "Sortie 1: \n Mairie d'Issy\n (M12)"
     ],
     [
       "",
@@ -4038,7 +4038,7 @@
       "",
       "48.824557",
       "2.273075",
-      "Sortie 2\n Mairie d'Issy\n (M12)"
+      "Sortie 2: \n Mairie d'Issy\n (M12)"
     ],
     [
       "",
@@ -4098,7 +4098,7 @@
     ],
     [
       "",
-      "Maisons-Alfort-Les Juilliottes (M8)",
+      "Maisons Alfort Les Juilliottes (M8)",
       "",
       "48.80379171",
       "2.444104562",
@@ -4106,7 +4106,7 @@
     ],
     [
       "",
-      "Maisons-Alfort-Les Juilliottes (M8)",
+      "Maisons Alfort Les Juilliottes (M8)",
       "",
       "48.80409985",
       "2.444482838",
@@ -4114,7 +4114,7 @@
     ],
     [
       "",
-      "Maisons-Alfort-Les Juilliottes (M8)",
+      "Maisons Alfort Les Juilliottes (M8)",
       "",
       "48.80277779",
       "2.447106496",
@@ -4122,7 +4122,7 @@
     ],
     [
       "",
-      "Maisons-Alfort-Les Juilliottes (M8)",
+      "Maisons Alfort Les Juilliottes (M8)",
       "",
       "48.80251546",
       "2.446746482",
@@ -4130,7 +4130,7 @@
     ],
     [
       "",
-      "Maisons-Alfort-Stade (M8)",
+      "Maisons Alfort Stade (M8)",
       "",
       "48.80919237",
       "2.43479297",
@@ -4138,7 +4138,7 @@
     ],
     [
       "",
-      "Maisons-Alfort-Stade (M8)",
+      "Maisons Alfort Stade (M8)",
       "",
       "48.80905609",
       "2.434201458",
@@ -4146,7 +4146,7 @@
     ],
     [
       "",
-      "Maisons-Alfort-Stade (M8)",
+      "Maisons Alfort Stade (M8)",
       "",
       "48.8089121",
       "2.434541138",
@@ -4154,27 +4154,27 @@
     ],
     [
       "",
-      "Malakoff–Plateau de Vanves (M13)",
+      "Malakoff Plateau de Vanves (M13)",
       "",
       "48.82258362",
       "2.298366522",
-      "Sortie 1\n Malakoff–Plateau de Vanves\n (M13)"
+      "Sortie 1: \n Malakoff–Plateau de Vanves\n (M13)"
     ],
     [
       "",
-      "Malakoff–Plateau de Vanves (M13)",
+      "Malakoff Plateau de Vanves (M13)",
       "",
       "48.82247149",
       "2.29859644",
-      "Sortie 2\n Malakoff–Plateau de Vanves\n (M13)"
+      "Sortie 2: \n Malakoff–Plateau de Vanves\n (M13)"
     ],
     [
       "",
-      "Malakoff–Rue Étienne Dolet (M13)",
+      "Malakoff Rue Étienne Dolet (M13)",
       "",
       "48.81517412",
       "2.297405613",
-      "Sortie 1\n Malakoff–Rue Étienne Dolet\n (M13)"
+      "Sortie 1: \n Malakoff–Rue Étienne Dolet\n (M13)"
     ],
     [
       "",
@@ -4218,43 +4218,43 @@
     ],
     [
       "",
-      "Marcadet-Poissonniers (M4, M12)",
+      "Marcadet Poissonniers (M4, M12)",
       "",
       "48.89056976",
       "2.349483029",
-      "Sortie 1\n Marcadet - Poissonniers \n (M4, M12)"
+      "Sortie 1: \n Marcadet - Poissonniers \n (M4, M12)"
     ],
     [
       "",
-      "Marcadet-Poissonniers (M4, M12)",
+      "Marcadet Poissonniers (M4, M12)",
       "",
       "48.89058563",
       "2.349753932",
-      "Sortie 2\n Marcadet - Poissonniers \n (M4, M12)"
+      "Sortie 2: \n Marcadet - Poissonniers \n (M4, M12)"
     ],
     [
       "",
-      "Marcadet-Poissonniers (M4, M12)",
+      "Marcadet Poissonniers (M4, M12)",
       "",
       "48.88963154",
       "2.349719063",
-      "Sortie 3\n Marcadet - Poissonniers \n (M4, M12)"
+      "Sortie 3: \n Marcadet - Poissonniers \n (M4, M12)"
     ],
     [
       "",
-      "Marcadet-Poissonniers (M4, M12)",
+      "Marcadet Poissonniers (M4, M12)",
       "",
       "48.89162788",
       "2.349788801",
-      "Sortie 4\n Marcadet - Poissonniers \n (M4, M12)"
+      "Sortie 4: \n Marcadet - Poissonniers \n (M4, M12)"
     ],
     [
       "",
-      "Marcadet-Poissonniers (M4, M12)",
+      "Marcadet Poissonniers (M4, M12)",
       "",
       "48.89152736",
       "2.350175039",
-      "Sortie 5\n Marcadet - Poissonniers \n (M4, M12)"
+      "Sortie 5: \n Marcadet - Poissonniers \n (M4, M12)"
     ],
     [
       "",
@@ -4326,11 +4326,11 @@
       "",
       "48.89047043",
       "2.360075786",
-      "Sortie 1\n Marx Dormoy \n (M12)"
+      "Sortie 1: \n Marx Dormoy \n (M12)"
     ],
     [
       "",
-      "Maubert–Mutualité (M10)",
+      "Maubert Mutualité (M10)",
       "",
       "48.85027183",
       "2.348182787",
@@ -4338,7 +4338,7 @@
     ],
     [
       "",
-      "Maubert–Mutualité (M10)",
+      "Maubert Mutualité (M10)",
       "",
       "48.85016886",
       "2.347873809",
@@ -4346,7 +4346,7 @@
     ],
     [
       "",
-      "Maubert–Mutualité (M10)",
+      "Maubert Mutualité (M10)",
       "",
       "48.84998586",
       "2.348338161",
@@ -4354,7 +4354,7 @@
     ],
     [
       "",
-      "Maubert–Mutualité (M10)",
+      "Maubert Mutualité (M10)",
       "",
       "48.8498961",
       "2.348231597",
@@ -4402,7 +4402,7 @@
     ],
     [
       "",
-      "Michel-Ange – Auteuil (M9, M10)",
+      "Michel Ange Auteuil (M9, M10)",
       "",
       "48.84793423",
       "2.264201028",
@@ -4410,7 +4410,7 @@
     ],
     [
       "",
-      "Michel-Ange – Auteuil (M9, M10)",
+      "Michel Ange Auteuil (M9, M10)",
       "",
       "48.84795522",
       "2.263848566",
@@ -4418,7 +4418,7 @@
     ],
     [
       "",
-      "Michel-Ange–Molitor (M9, M10)",
+      "Michel Ange Molitor (M9, M10)",
       "",
       "48.84513476",
       "2.261676525",
@@ -4446,7 +4446,7 @@
       "",
       "48.87373337",
       "2.314330238",
-      "Sortie 1\n Miromesnil\n (M9, M13)"
+      "Sortie 1: \n Miromesnil\n (M9, M13)"
     ],
     [
       "",
@@ -4454,7 +4454,7 @@
       "",
       "48.87355249",
       "2.314356791",
-      "Sortie 2\n Miromesnil\n (M9, M13)"
+      "Sortie 2: \n Miromesnil\n (M9, M13)"
     ],
     [
       "",
@@ -4462,7 +4462,7 @@
       "",
       "48.87397918",
       "2.315785598",
-      "Sortie 3\n Miromesnil\n (M9, M13)"
+      "Sortie 3: \n Miromesnil\n (M9, M13)"
     ],
     [
       "",
@@ -4470,7 +4470,7 @@
       "",
       "48.87382082",
       "2.315782018",
-      "Sortie 4\n Miromesnil\n (M9, M13)"
+      "Sortie 4: \n Miromesnil\n (M9, M13)"
     ],
     [
       "",
@@ -4490,63 +4490,63 @@
     ],
     [
       "",
-      "Montparnasse–Bienvenüe (M4, M6, M12, M13)",
+      "Montparnasse Bienvenüe (M4, M6, M12, M13)",
       "",
       "48.83821106",
       "2.316868074",
-      "Sortie 1\n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
+      "Sortie 1: \n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
     ],
     [
       "",
-      "Montparnasse–Bienvenüe (M4, M6, M12, M13)",
+      "Montparnasse Bienvenüe (M4, M6, M12, M13)",
       "",
       "48.84266676",
       "2.320615634",
-      "Sortie 2\n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
+      "Sortie 2: \n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
     ],
     [
       "",
-      "Montparnasse–Bienvenüe (M4, M6, M12, M13)",
+      "Montparnasse Bienvenüe (M4, M6, M12, M13)",
       "",
       "48.84182046",
       "2.32158805",
-      "Sortie 3\n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
+      "Sortie 3: \n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
     ],
     [
       "",
-      "Montparnasse–Bienvenüe (M4, M6, M12, M13)",
+      "Montparnasse Bienvenüe (M4, M6, M12, M13)",
       "",
       "48.84379647",
       "2.324532623",
-      "Sortie 4\n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
+      "Sortie 4: \n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
     ],
     [
       "",
-      "Montparnasse–Bienvenüe (M4, M6, M12, M13)",
+      "Montparnasse Bienvenüe (M4, M6, M12, M13)",
       "",
       "48.84330327",
       "2.324447164",
-      "Sortie 5\n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
+      "Sortie 5: \n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
     ],
     [
       "",
-      "Montparnasse–Bienvenüe (M4, M6, M12, M13)",
+      "Montparnasse Bienvenüe (M4, M6, M12, M13)",
       "",
       "48.84342152",
       "2.323377833",
-      "Sortie 6\n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
+      "Sortie 6: \n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
     ],
     [
       "",
-      "Montparnasse–Bienvenüe (M4, M6, M12, M13)",
+      "Montparnasse Bienvenüe (M4, M6, M12, M13)",
       "",
       "48.84424063",
       "2.323202533",
-      "Sortie 7\n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
+      "Sortie 7: \n Montparnasse–Bienvenüe\n (M4, M6, M12, M13)"
     ],
     [
       "",
-      "Mouton-Duvernet (M4)",
+      "Mouton Duvernet (M4)",
       "",
       "48.83124806",
       "2.329638279",
@@ -4554,7 +4554,7 @@
     ],
     [
       "",
-      "Mouton-Duvernet (M4)",
+      "Mouton Duvernet (M4)",
       "",
       "48.83160736",
       "2.329945021",
@@ -4634,35 +4634,35 @@
     ],
     [
       "",
-      "Notre-Dame-de-Lorette (M12)",
+      "Notre Dame de Lorette (M12)",
       "",
       "48.87618207",
       "2.338581375",
-      "Sortie 1\n Notre-Dame-de-Lorette\n (M12)"
+      "Sortie 1: \n Notre-Dame-de-Lorette\n (M12)"
     ],
     [
       "",
-      "Notre-Dame-de-Lorette (M12)",
+      "Notre Dame de Lorette (M12)",
       "",
       "48.87607634",
       "2.338126249",
-      "Sortie 2\n Notre-Dame-de-Lorette\n (M12)"
+      "Sortie 2: \n Notre-Dame-de-Lorette\n (M12)"
     ],
     [
       "",
-      "Notre-Dame-des-Champs (M12)",
+      "Notre Dame de Lorette (M12)",
       "",
       "48.84461039",
       "2.328827243",
-      "Sortie 1\n Notre-Dame-des-Champs\n (M12)"
+      "Sortie 1: \n Notre-Dame-des-Champs\n (M12)"
     ],
     [
       "",
-      "Notre-Dame-des-Champs (M12)",
+      "Notre Dame de Lorette (M12)",
       "",
       "48.84493287",
       "2.328757934",
-      "Sortie 2\n Notre-Dame-des-Champs\n (M12)"
+      "Sortie 2: \n Notre-Dame-des-Champs\n (M12)"
     ],
     [
       "",
@@ -4734,7 +4734,7 @@
       "",
       "48.82692836",
       "2.36639004",
-      "Sortie 1\n Olympiades \n (M14)"
+      "Sortie 1:\n Olympiades \n (M14)"
     ],
     [
       "",
@@ -4742,7 +4742,7 @@
       "",
       "48.82673007",
       "2.365165491",
-      "Sortie 2\n Olympiades \n (M14)"
+      "Sortie 2:\n Olympiades \n (M14)"
     ],
     [
       "",
@@ -4750,7 +4750,7 @@
       "",
       "48.82693711",
       "2.365292896",
-      "Sortie 3\n Olympiades \n (M14)"
+      "Sortie 3:\n Olympiades \n (M14)"
     ],
     [
       "",
@@ -4758,7 +4758,7 @@
       "",
       "48.82735248",
       "2.368126378",
-      "Sortie 4\n Olympiades \n (M14)"
+      "Sortie 4:\n Olympiades \n (M14)"
     ],
     [
       "",
@@ -4818,7 +4818,7 @@
     ],
     [
       "",
-      "Palais Royal–Musée du Louvre (M1, M7)",
+      "Palais Royal Musée du Louvre (M1, M7)",
       "",
       "48.86241077",
       "2.336630199",
@@ -4826,7 +4826,7 @@
     ],
     [
       "",
-      "Palais Royal–Musée du Louvre (M1, M7)",
+      "Palais Royal Musée du Louvre (M1, M7)",
       "",
       "48.86253792",
       "2.33638032",
@@ -4834,7 +4834,7 @@
     ],
     [
       "",
-      "Palais Royal–Musée du Louvre (M1, M7)",
+      "Palais Royal Musée du Louvre (M1, M7)",
       "",
       "48.8627678",
       "2.336499403",
@@ -4842,7 +4842,7 @@
     ],
     [
       "",
-      "Palais Royal–Musée du Louvre (M1, M7)",
+      "Palais Royal Musée du Louvre (M1, M7)",
       "",
       "48.86255718",
       "2.337309559",
@@ -4850,7 +4850,7 @@
     ],
     [
       "",
-      "Palais Royal–Musée du Louvre (M1, M7)",
+      "Palais Royal Musée du Louvre (M1, M7)",
       "",
       "48.8631762",
       "2.336001596",
@@ -4858,7 +4858,7 @@
     ],
     [
       "",
-      "Palais Royal–Musée du Louvre (M1, M7)",
+      "Palais Royal Musée du Louvre (M1, M7)",
       "",
       "48.86287055",
       "2.334590168",
@@ -4866,7 +4866,7 @@
     ],
     [
       "",
-      "Palais Royal–Musée du Louvre (M1, M7)",
+      "Palais Royal Musée du Louvre (M1, M7)",
       "",
       "48.862466",
       "2.335889274",
@@ -4874,7 +4874,7 @@
     ],
     [
       "",
-      "Palais Royal–Musée du Louvre (M1, M7)",
+      "Palais Royal Musée du Louvre (M1, M7)",
       "",
       "48.86248497",
       "2.335820878",
@@ -4910,7 +4910,7 @@
       "",
       "48.84266",
       "2.31261",
-      "Sortie 1\n Pasteur\n (M6, M12)"
+      "Sortie 1: \n Pasteur\n (M6, M12)"
     ],
     [
       "",
@@ -4918,7 +4918,7 @@
       "",
       "48.84301",
       "2.31252",
-      "Sortie 2\n Pasteur\n (M6, M12)"
+      "Sortie 2: \n Pasteur\n (M6, M12)"
     ],
     [
       "",
@@ -4926,7 +4926,7 @@
       "",
       "48.86809827",
       "2.401436063",
-      "Sortie 1\n Pelleport \n (M3bis)"
+      "Sortie 1:\n Pelleport \n (M3bis)"
     ],
     [
       "",
@@ -4966,7 +4966,7 @@
       "",
       "48.83397724",
       "2.31794585",
-      "Sortie 1\n Pernety\n (M13)"
+      "Sortie 1: \n Pernety\n (M13)"
     ],
     [
       "",
@@ -4974,7 +4974,7 @@
       "",
       "48.83451437",
       "2.31899222",
-      "Sortie 2\n Pernety\n (M13)"
+      "Sortie 2: \n Pernety\n (M13)"
     ],
     [
       "",
@@ -5022,7 +5022,7 @@
       "",
       "48.88243893",
       "2.337237929",
-      "Sortie 1\n Pigalle \n (M2, M12)"
+      "Sortie 1: \n Pigalle \n (M2, M12)"
     ],
     [
       "",
@@ -5030,7 +5030,7 @@
       "",
       "48.88239422",
       "2.337572896",
-      "Sortie 1\n Pigalle \n (M2, M12)"
+      "Sortie 1: \n Pigalle \n (M2, M12)"
     ],
     [
       "",
@@ -5038,7 +5038,7 @@
       "",
       "48.88232251",
       "2.337937985",
-      "Sortie 1\n Pigalle \n (M2, M12)"
+      "Sortie 1: \n Pigalle \n (M2, M12)"
     ],
     [
       "",
@@ -5046,7 +5046,7 @@
       "",
       "48.88361647",
       "2.327788365",
-      "Sortie 1\n Place de Clichy\n (M2, M13)"
+      "Sortie 1: \n Place de Clichy\n (M2, M13)"
     ],
     [
       "",
@@ -5054,7 +5054,7 @@
       "",
       "48.8844422",
       "2.329282336",
-      "Sortie 2\n Place de Clichy\n (M2, M13)"
+      "Sortie 2: \n Place de Clichy\n (M2, M13)"
     ],
     [
       "",
@@ -5062,7 +5062,7 @@
       "",
       "48.88365535",
       "2.326938767",
-      "Sortie 3\n Place de Clichy\n (M2, M13)"
+      "Sortie 3: \n Place de Clichy\n (M2, M13)"
     ],
     [
       "",
@@ -5134,7 +5134,7 @@
       "",
       "48.83169513",
       "2.314400894",
-      "Sortie 1\n Plaisance\n (M13)"
+      "Sortie 1: \n Plaisance\n (M13)"
     ],
     [
       "",
@@ -5142,7 +5142,7 @@
       "",
       "48.83179842",
       "2.314570543",
-      "Sortie 2\n Plaisance\n (M13)"
+      "Sortie 2: \n Plaisance\n (M13)"
     ],
     [
       "",
@@ -5150,7 +5150,7 @@
       "",
       "48.83192069",
       "2.314003256",
-      "Sortie 3\n Plaisance\n (M13)"
+      "Sortie 3: \n Plaisance\n (M13)"
     ],
     [
       "",
@@ -5158,7 +5158,7 @@
       "",
       "48.8318174",
       "2.313859758",
-      "Sortie 4\n Plaisance\n (M13)"
+      "Sortie 4: \n Plaisance\n (M13)"
     ],
     [
       "",
@@ -5166,7 +5166,7 @@
       "",
       "48.83153225",
       "2.313466814",
-      "Sortie 5\n Plaisance\n (M13)"
+      "Sortie 5: \n Plaisance\n (M13)"
     ],
     [
       "",
@@ -5198,7 +5198,7 @@
       "",
       "48.88860738",
       "2.315485708",
-      "Sortie 1\n Pont Cardinet\n (M14)"
+      "Sortie 1:\n Pont Cardinet\n (M14)"
     ],
     [
       "",
@@ -5206,7 +5206,7 @@
       "",
       "48.88966144",
       "2.313724168",
-      "Sortie 2\n Pont Cardinet\n (M14)"
+      "Sortie 2:\n Pont Cardinet\n (M14)"
     ],
     [
       "",
@@ -5550,7 +5550,7 @@
       "",
       "48.89417312",
       "2.31367092",
-      "Sortie 1\n Porte de Clichy\n (M13, M14)"
+      "Sortie 1: \n Porte de Clichy\n (M13, M14)"
     ],
     [
       "",
@@ -5558,7 +5558,7 @@
       "",
       "48.89438618",
       "2.314189978",
-      "Sortie 2\n Porte de Clichy\n (M13, M14)"
+      "Sortie 2: \n Porte de Clichy\n (M13, M14)"
     ],
     [
       "",
@@ -5566,7 +5566,7 @@
       "",
       "48.89498216",
       "2.313945592",
-      "Sortie 3\n Porte de Clichy\n (M13, M14)"
+      "Sortie 3: \n Porte de Clichy\n (M13, M14)"
     ],
     [
       "",
@@ -5574,7 +5574,7 @@
       "",
       "48.8949177",
       "2.313093082",
-      "Sortie 4\n Porte de Clichy\n (M13, M14)"
+      "Sortie 4: \n Porte de Clichy\n (M13, M14)"
     ],
     [
       "",
@@ -5582,7 +5582,7 @@
       "",
       "48.89489885",
       "2.311618844",
-      "Sortie 5\n Porte de Clichy\n (M13, M14)"
+      "Sortie 5: \n Porte de Clichy\n (M13, M14)"
     ],
     [
       "",
@@ -5590,7 +5590,7 @@
       "",
       "48.89424531",
       "2.312816022",
-      "Sortie 6\n Porte de Clichy\n (M13, M14)"
+      "Sortie 6: \n Porte de Clichy\n (M13, M14)"
     ],
     [
       "",
@@ -5598,7 +5598,7 @@
       "",
       "48.89398896",
       "2.314548069",
-      "Sortie 7\n Porte de Clichy\n (M13, M14)"
+      "Sortie 7: \n Porte de Clichy\n (M13, M14)"
     ],
     [
       "",
@@ -5606,7 +5606,7 @@
       "",
       "48.89450413",
       "2.317114336",
-      "Sortie 8\n Porte de Clichy\n (M13, M14)"
+      "Sortie 8: \n Porte de Clichy\n (M13, M14)"
     ],
     [
       "",
@@ -5654,7 +5654,7 @@
       "",
       "48.89816839",
       "2.358927413",
-      "Sortie 1\n Porte de la Chapelle \n (M12)"
+      "Sortie 1: \n Porte de la Chapelle \n (M12)"
     ],
     [
       "",
@@ -5662,7 +5662,7 @@
       "",
       "48.8976029",
       "2.359347659",
-      "Sortie 2\n Porte de la Chapelle \n (M12)"
+      "Sortie 2: \n Porte de la Chapelle \n (M12)"
     ],
     [
       "",
@@ -5670,7 +5670,7 @@
       "",
       "48.89674818",
       "2.359354225",
-      "Sortie 3\n Porte de la Chapelle \n (M12)"
+      "Sortie 3: \n Porte de la Chapelle \n (M12)"
     ],
     [
       "",
@@ -5678,7 +5678,7 @@
       "",
       "48.89680333",
       "2.35908067",
-      "Sortie 4\n Porte de la Chapelle \n (M12)"
+      "Sortie 4: \n Porte de la Chapelle \n (M12)"
     ],
     [
       "",
@@ -5754,7 +5754,7 @@
     ],
     [
       "",
-      "Porte de Pantin–Parc de la Villette (M5)",
+      "Porte de Pantin Parc de la Villette (M5)",
       "",
       "48.88883379",
       "2.392480876",
@@ -5762,7 +5762,7 @@
     ],
     [
       "",
-      "Porte de Pantin–Parc de la Villette (M5)",
+      "Porte de Pantin Parc de la Villette (M5)",
       "",
       "48.88864882",
       "2.392838547",
@@ -5770,7 +5770,7 @@
     ],
     [
       "",
-      "Porte de Pantin–Parc de la Villette (M5)",
+      "Porte de Pantin Parc de la Villette (M5)",
       "",
       "48.88829395",
       "2.390726793",
@@ -5778,7 +5778,7 @@
     ],
     [
       "",
-      "Porte de Pantin–Parc de la Villette (M5)",
+      "Porte de Pantin Parc de la Villette (M5)",
       "",
       "48.8882201",
       "2.391339719",
@@ -5786,7 +5786,7 @@
     ],
     [
       "",
-      "Porte de Saint-Cloud–Parc des Princes (M9)",
+      "Porte de Saint Cloud Parc des Princes (M9)",
       "",
       "48.838661",
       "2.25574861",
@@ -5794,7 +5794,7 @@
     ],
     [
       "",
-      "Porte de Saint-Cloud–Parc des Princes (M9)",
+      "Porte de Saint Cloud Parc des Princes (M9)",
       "",
       "48.8373921",
       "2.255963877",
@@ -5802,7 +5802,7 @@
     ],
     [
       "",
-      "Porte de Saint-Cloud–Parc des Princes (M9)",
+      "Porte de Saint Cloud Parc des Princes (M9)",
       "",
       "48.83725489",
       "2.256945896",
@@ -5810,7 +5810,7 @@
     ],
     [
       "",
-      "Porte de Saint-Cloud–Parc des Princes (M9)",
+      "Porte de Saint Cloud Parc des Princes (M9)",
       "",
       "48.83797959",
       "2.257952581",
@@ -5818,7 +5818,7 @@
     ],
     [
       "",
-      "Porte de Saint-Cloud–Parc des Princes (M9)",
+      "Porte de Saint Cloud Parc des Princes (M9)",
       "",
       "48.83820228",
       "2.257795047",
@@ -5826,7 +5826,7 @@
     ],
     [
       "",
-      "Porte de Saint-Cloud–Parc des Princes (M9)",
+      "Porte de Saint Cloud Parc des Princes (M9)",
       "",
       "48.83864211",
       "2.256643321",
@@ -5834,7 +5834,7 @@
     ],
     [
       "",
-      "Porte de Saint-Cloud–Parc des Princes (M9)",
+      "Porte de Saint Cloud Parc des Princes (M9)",
       "",
       "48.83771441",
       "2.255959518",
@@ -5842,27 +5842,27 @@
     ],
     [
       "",
-      "Porte de Saint-Ouen (M13)",
+      "Porte de Saint Ouen (M13)",
       "",
       "48.89748921",
       "2.328799353",
-      "Sortie 1\n Porte de Saint-Ouen \n (M13)"
+      "Sortie 1:\n Porte de Saint-Ouen \n (M13)"
     ],
     [
       "",
-      "Porte de Saint-Ouen (M13)",
+      "Porte de Saint Ouen (M13)",
       "",
       "48.89747756",
       "2.329053786",
-      "Sortie 2\n Porte de Saint-Ouen \n (M13)"
+      "Sortie 2:\n Porte de Saint-Ouen \n (M13)"
     ],
     [
       "",
-      "Porte de Saint-Ouen (M13)",
+      "Porte de Saint Ouen (M13)",
       "",
       "48.89676937",
       "2.328832265",
-      "Sortie 3\n Porte de Saint-Ouen \n (M13)"
+      "Sortie 3:\n Porte de Saint-Ouen \n (M13)"
     ],
     [
       "",
@@ -5870,7 +5870,7 @@
       "",
       "48.82772581",
       "2.305904389",
-      "Sortie 1\n Porte de Vanves\n (M13)"
+      "Sortie 1: \n Porte de Vanves\n (M13)"
     ],
     [
       "",
@@ -5878,7 +5878,7 @@
       "",
       "48.82748091",
       "2.305857689",
-      "Sortie 2\n Porte de Vanves\n (M13)"
+      "Sortie 2: \n Porte de Vanves\n (M13)"
     ],
     [
       "",
@@ -5886,7 +5886,7 @@
       "",
       "48.82770946",
       "2.304678135",
-      "Sortie 3\n Porte de Vanves\n (M13)"
+      "Sortie 3: \n Porte de Vanves\n (M13)"
     ],
     [
       "",
@@ -5894,7 +5894,7 @@
       "",
       "48.82793392",
       "2.304940412",
-      "Sortie 4\n Porte de Vanves\n (M13)"
+      "Sortie 4: \n Porte de Vanves\n (M13)"
     ],
     [
       "",
@@ -5902,7 +5902,7 @@
       "",
       "48.83206779",
       "2.28767842",
-      "Sortie 1\n Porte de Versailles\n (M12)"
+      "Sortie 1: \n Porte de Versailles\n (M12)"
     ],
     [
       "",
@@ -5910,7 +5910,7 @@
       "",
       "48.83226201",
       "2.287321686",
-      "Sortie 2\n Porte de Versailles\n (M12)"
+      "Sortie 2: \n Porte de Versailles\n (M12)"
     ],
     [
       "",
@@ -5918,7 +5918,7 @@
       "",
       "48.83270871",
       "2.288606465",
-      "Sortie 3\n Porte de Versailles\n (M12)"
+      "Sortie 3: \n Porte de Versailles\n (M12)"
     ],
     [
       "",
@@ -5926,7 +5926,7 @@
       "",
       "48.83284466",
       "2.288281917",
-      "Sortie 4\n Porte de Versailles\n (M12)"
+      "Sortie 4: \n Porte de Versailles\n (M12)"
     ],
     [
       "",
@@ -5934,7 +5934,7 @@
       "",
       "48.83207839",
       "2.289378941",
-      "Sortie 5\n Porte de Versailles\n (M12)"
+      "Sortie 5: \n Porte de Versailles\n (M12)"
     ],
     [
       "",
@@ -6148,7 +6148,7 @@
       "",
       "Porte d'Orléans (M4)",
       "",
-      "48.82345567",
+      "48.82345567141453,",
       "2.325227408",
       "Sortie 3\n Porte d'Orléans \n (M4)"
     ],
@@ -6402,7 +6402,7 @@
     ],
     [
       "",
-      "Réaumur–Sébastopol (M3, M4)",
+      "Réaumur Sébastopol (M3, M4)",
       "",
       "48.86612583",
       "2.352327937",
@@ -6410,7 +6410,7 @@
     ],
     [
       "",
-      "Réaumur–Sébastopol (M3, M4)",
+      "Réaumur Sébastopol (M3, M4)",
       "",
       "48.86645431",
       "2.352171315",
@@ -6418,7 +6418,7 @@
     ],
     [
       "",
-      "Réaumur–Sébastopol (M3, M4)",
+      "Réaumur Sébastopol (M3, M4)",
       "",
       "48.86692824",
       "2.348902515",
@@ -6426,7 +6426,7 @@
     ],
     [
       "",
-      "Réaumur–Sébastopol (M3, M4)",
+      "Réaumur Sébastopol (M3, M4)",
       "",
       "48.86714763",
       "2.353162642",
@@ -6438,7 +6438,7 @@
       "",
       "48.84817184",
       "2.327795021",
-      "Sortie 1\n Rennes\n (M12)"
+      "Sortie 1: \n Rennes\n (M12)"
     ],
     [
       "",
@@ -6446,7 +6446,7 @@
       "",
       "48.84839423",
       "2.327738694",
-      "Sortie 2\n Rennes\n (M12)"
+      "Sortie 2: \n Rennes\n (M12)"
     ],
     [
       "",
@@ -6530,7 +6530,7 @@
     ],
     [
       "",
-      "Reuilly-Diderot (M1, M8)",
+      "Reuilly Diderot (M1, M8)",
       "",
       "48.84724766",
       "2.386566733",
@@ -6538,7 +6538,7 @@
     ],
     [
       "",
-      "Reuilly-Diderot (M1, M8)",
+      "Reuilly Diderot (M1, M8)",
       "",
       "48.84729334",
       "2.387201091",
@@ -6546,7 +6546,7 @@
     ],
     [
       "",
-      "Reuilly-Diderot (M1, M8)",
+      "Reuilly Diderot (M1, M8)",
       "",
       "48.8473988",
       "2.38641051",
@@ -6554,7 +6554,7 @@
     ],
     [
       "",
-      "Reuilly-Diderot (M1, M8)",
+      "Reuilly Diderot (M1, M8)",
       "",
       "48.8469402",
       "2.3841372",
@@ -6562,7 +6562,7 @@
     ],
     [
       "",
-      "Richard-Lenoir (M5)",
+      "Richard Lenoir (M5)",
       "",
       "48.86020291",
       "2.372229421",
@@ -6570,7 +6570,7 @@
     ],
     [
       "",
-      "Richard-Lenoir (M5)",
+      "Richard Lenoir (M5)",
       "",
       "48.85925834",
       "2.371724436",
@@ -6578,7 +6578,7 @@
     ],
     [
       "",
-      "Richelieu-Drouot (M8, M9)",
+      "Richelieu Drouot (M8, M9)",
       "",
       "48.87201513",
       "2.33906374",
@@ -6586,7 +6586,7 @@
     ],
     [
       "",
-      "Richelieu-Drouot (M8, M9)",
+      "Richelieu Drouot (M8, M9)",
       "",
       "48.87179817",
       "2.339673145",
@@ -6594,7 +6594,7 @@
     ],
     [
       "",
-      "Richelieu-Drouot (M8, M9)",
+      "Richelieu Drouot (M8, M9)",
       "",
       "48.87214542",
       "2.339992989",
@@ -6602,7 +6602,7 @@
     ],
     [
       "",
-      "Richelieu-Drouot (M8, M9)",
+      "Richelieu Drouot (M8, M9)",
       "",
       "48.87225866",
       "2.339131242",
@@ -6610,7 +6610,7 @@
     ],
     [
       "",
-      "Richelieu-Drouot (M8, M9)",
+      "Richelieu Drouot (M8, M9)",
       "",
       "48.87217939",
       "2.338049859",
@@ -6618,7 +6618,7 @@
     ],
     [
       "",
-      "Richelieu-Drouot (M8, M9)",
+      "Richelieu Drouot (M8, M9)",
       "",
       "48.87168041",
       "2.337634648",
@@ -6626,7 +6626,7 @@
     ],
     [
       "",
-      "Richelieu-Drouot (M8, M9)",
+      "Richelieu Drouot (M8, M9)",
       "",
       "48.87149873",
       "2.33789393",
@@ -6634,7 +6634,7 @@
     ],
     [
       "",
-      "Richelieu-Drouot (M8, M9)",
+      "Richelieu Drouot (M8, M9)",
       "",
       "48.87189552",
       "2.338843763",
@@ -6726,11 +6726,11 @@
       "",
       "48.85576567",
       "2.325618154",
-      "Sortie 1\n Rue du Bac\n (M12)"
+      "Sortie 1: \n Rue du Bac\n (M12)"
     ],
     [
       "",
-      "Rue Saint-Maur (M3)",
+      "Rue Saint Maur (M3)",
       "",
       "48.86440332",
       "2.37854546",
@@ -6738,7 +6738,7 @@
     ],
     [
       "",
-      "Rue Saint-Maur (M3)",
+      "Rue Saint Maur (M3)",
       "",
       "48.86400218",
       "2.380815157",
@@ -6746,7 +6746,7 @@
     ],
     [
       "",
-      "Rue Saint-Maur (M3)",
+      "Rue Saint Maur (M3)",
       "",
       "48.86407161",
       "2.380383889",
@@ -6754,7 +6754,7 @@
     ],
     [
       "",
-      "Rue Saint-Maur (M3)",
+      "Rue Saint Maur (M3)",
       "",
       "48.86418389",
       "2.380791704",
@@ -6762,7 +6762,7 @@
     ],
     [
       "",
-      "Saint-Ambroise (M9)",
+      "Saint Abroise (M9)",
       "",
       "48.8611655",
       "2.374623721",
@@ -6770,7 +6770,7 @@
     ],
     [
       "",
-      "Saint-Ambroise (M9)",
+      "Saint Abroise (M9)",
       "",
       "48.86094617",
       "2.374600113",
@@ -6778,7 +6778,7 @@
     ],
     [
       "",
-      "Saint-Ambroise (M9)",
+      "Saint Abroise (M9)",
       "",
       "48.86059298",
       "2.375198325",
@@ -6786,7 +6786,7 @@
     ],
     [
       "",
-      "Saint-Ambroise (M9)",
+      "Saint Abroise (M9)",
       "",
       "48.86180752",
       "2.373181278",
@@ -6794,7 +6794,7 @@
     ],
     [
       "",
-      "Saint-Ambroise (M9)",
+      "Saint Abroise (M9)",
       "",
       "48.86193294",
       "2.373413551",
@@ -6802,7 +6802,7 @@
     ],
     [
       "",
-      "Saint-Augustin (M9)",
+      "Saint Augustin (M9)",
       "",
       "48.87449623",
       "2.321136465",
@@ -6810,7 +6810,7 @@
     ],
     [
       "",
-      "Saint-Augustin (M9)",
+      "Saint Augustin (M9)",
       "",
       "48.87467343",
       "2.321159737",
@@ -6818,79 +6818,79 @@
     ],
     [
       "",
-      "Saint-Denis Université (M13)",
+      "Saint Denis Université (M13)",
       "",
       "48.94594966",
       "2.364342828",
-      "Sortie 1\n Saint-Denis Université \n (M13)"
+      "Sortie 1:\n Saint-Denis Université \n (M13)"
     ],
     [
       "",
-      "Saint-Denis Université (M13)",
+      "Saint Denis Université (M13)",
       "",
       "48.94574039",
       "2.36417972",
-      "Sortie 2\n Saint-Denis Université \n (M13)"
+      "Sortie 2:\n Saint-Denis Université \n (M13)"
     ],
     [
       "",
-      "Saint-Denis–Porte de Paris Stade de France (M13)",
+      "Saint Denis Porte de Paris Stade de France (M13)",
       "",
       "48.92930776",
       "2.356767699",
-      "Sortie 1\n Saint-Denis–Porte de Paris Stade de France \n (M13)"
+      "Sortie 1:\n Saint-Denis–Porte de Paris Stade de France \n (M13)"
     ],
     [
       "",
-      "Saint-Denis–Porte de Paris Stade de France (M13)",
+      "Saint Denis Porte de Paris Stade de France (M13)",
       "",
       "48.92989589",
       "2.356618678",
-      "Sortie 2\n Saint-Denis–Porte de Paris Stade de France \n (M13)"
+      "Sortie 2:\n Saint-Denis–Porte de Paris Stade de France \n (M13)"
     ],
     [
       "",
-      "Saint-Denis–Porte de Paris Stade de France (M13)",
+      "Saint Denis Porte de Paris Stade de France (M13)",
       "",
       "48.93011098",
       "2.356292913",
-      "Sortie 3\n Saint-Denis–Porte de Paris Stade de France \n (M13)"
+      "Sortie 3:\n Saint-Denis–Porte de Paris Stade de France \n (M13)"
     ],
     [
       "",
-      "Saint-Fargeau (M3bis)",
+      "Saint Fargeau (M3bis)",
       "",
       "48.8715857",
       "2.404152701",
-      "Sortie 1\n Saint-Fargeau \n (M3bis)"
+      "Sortie 1:\n Saint-Fargeau \n (M3bis)"
     ],
     [
       "",
-      "Saint-François-Xavier (M13)",
+      "Saint François Xavier (M13)",
       "",
       "48.85149281",
       "2.314234718",
-      "Sortie 1\n Saint-François-Xavier\n (M13)"
+      "Sortie 1: \n Saint-François-Xavier\n (M13)"
     ],
     [
       "",
-      "Saint-Georges (M12)",
+      "Saint Georges (M12)",
       "",
       "48.87842832",
       "2.337650024",
-      "Sortie 1\n Saint-Georges\n (M12)"
+      "Sortie 1: \n Saint-Georges\n (M12)"
     ],
     [
       "",
-      "Saint-Georges (M12)",
+      "Saint Georges (M12)",
       "",
       "48.87837811",
       "2.337459132",
-      "Sortie 2\n Saint-Georges\n (M12)"
+      "Sortie 2: \n Saint-Georges\n (M12)"
     ],
     [
       "",
-      "Saint-Germain-des-Prés (M4)",
+      "Saint Germain des Prés (M4)",
       "",
       "48.85383431",
       "2.33369084",
@@ -6898,7 +6898,7 @@
     ],
     [
       "",
-      "Saint-Germain-des-Prés (M4)",
+      "Saint Germain des Prés (M4)",
       "",
       "48.85361202",
       "2.333731789",
@@ -6906,7 +6906,7 @@
     ],
     [
       "",
-      "Saint-Jacques (M6)",
+      "Saint Jacques (M6)",
       "",
       "48.83309608",
       "2.336459608",
@@ -6914,95 +6914,95 @@
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87556191",
       "2.324282866",
-      "Sortie 1\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 1: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87541141",
       "2.326416993",
-      "Sortie 2\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 2: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87541979",
       "2.326849499",
-      "Sortie 3\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 3: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87601061",
       "2.324994788",
-      "Sortie 4\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 4: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.8762234",
       "2.325535253",
-      "Sortie 5\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 5: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87515812",
       "2.324733943",
-      "Sortie 6\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 6: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87480133",
       "2.324685663",
-      "Sortie 7\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 7: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87570719",
       "2.326628923",
-      "Sortie 8\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 8: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87615967",
       "2.326355338",
-      "Sortie 9\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 9: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87571421",
       "2.328632821",
-      "Sortie 10\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 10: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Lazare (M3, M12, M13, M14)",
+      "Saint Lazare (M3, M12, M13, M14)",
       "",
       "48.87583623",
       "2.328354989",
-      "Sortie 11\n Saint-Lazare\n (M3, M12, M13, M14)"
+      "Sortie 11: \n Saint-Lazare\n (M3, M12, M13, M14)"
     ],
     [
       "",
-      "Saint-Mandé (M1)",
+      "Saint Mandé (M1)",
       "",
       "48.8466744",
       "2.417247402",
@@ -7010,7 +7010,7 @@
     ],
     [
       "",
-      "Saint-Mandé (M1)",
+      "Saint Mandé (M1)",
       "",
       "48.84634951",
       "2.417313894",
@@ -7018,7 +7018,7 @@
     ],
     [
       "",
-      "Saint-Mandé (M1)",
+      "Saint Mandé (M1)",
       "",
       "48.84626134",
       "2.418839442",
@@ -7026,7 +7026,7 @@
     ],
     [
       "",
-      "Saint-Mandé (M1)",
+      "Saint Mandé (M1)",
       "",
       "48.84616363",
       "2.420107106",
@@ -7034,7 +7034,7 @@
     ],
     [
       "",
-      "Saint-Mandé (M1)",
+      "Saint Mandé (M1)",
       "",
       "48.84638155",
       "2.420276847",
@@ -7042,7 +7042,7 @@
     ],
     [
       "",
-      "Saint-Marcel (M5)",
+      "Saint Marcel (M5)",
       "",
       "48.83837486",
       "2.360868653",
@@ -7050,7 +7050,7 @@
     ],
     [
       "",
-      "Saint-Marcel (M5)",
+      "Saint Marcel (M5)",
       "",
       "48.83848908",
       "2.360501433",
@@ -7058,7 +7058,7 @@
     ],
     [
       "",
-      "Saint-Michel (M4)",
+      "Saint Michel (M4)",
       "",
       "48.85287396",
       "2.346828705",
@@ -7066,7 +7066,7 @@
     ],
     [
       "",
-      "Saint-Michel (M4)",
+      "Saint Michel (M4)",
       "",
       "48.85264541",
       "2.346689231",
@@ -7074,7 +7074,7 @@
     ],
     [
       "",
-      "Saint-Michel (M4)",
+      "Saint Michel (M4)",
       "",
       "48.85325272",
       "2.343570811",
@@ -7082,7 +7082,7 @@
     ],
     [
       "",
-      "Saint-Michel (M4)",
+      "Saint Michel (M4)",
       "",
       "48.85314007",
       "2.342956547",
@@ -7090,63 +7090,63 @@
     ],
     [
       "",
-      "Saint-Ouen (M14)",
+      "Saint Ouen (M14)",
       "",
       "48.9055536",
       "2.322506981",
-      "Sortie 1\n Saint-Quen\n (M14)"
+      "Sortie 1:\n Saint-Quen\n (M14)"
     ],
     [
       "",
-      "Saint-Ouen (M14)",
+      "Saint Ouen (M14)",
       "",
       "48.90538416",
       "2.322585748",
-      "Sortie 2\n Saint-Quen\n (M14)"
+      "Sortie 2:\n Saint-Quen\n (M14)"
     ],
     [
       "",
-      "Saint-Ouen (M14)",
+      "Saint Ouen (M14)",
       "",
       "48.90412879",
       "2.320897191",
-      "Sortie 3\n Saint-Quen\n (M14)"
+      "Sortie 3:\n Saint-Quen\n (M14)"
     ],
     [
       "",
-      "Saint-Ouen (M14)",
+      "Saint Ouen (M14)",
       "",
       "48.90413671",
       "2.320844504",
-      "Sortie 4\n Saint-Quen\n (M14)"
+      "Sortie 4:\n Saint-Quen\n (M14)"
     ],
     [
       "",
-      "Saint-Ouen (M14)",
+      "Saint Ouen (M14)",
       "",
       "48.90336842",
       "2.322999234",
-      "Sortie 5\n Saint-Quen\n (M14)"
+      "Sortie 5:\n Saint-Quen\n (M14)"
     ],
     [
       "",
-      "Saint-Ouen (M14)",
+      "Saint Ouen (M14)",
       "",
       "48.90475772",
       "2.32260495",
-      "Sortie 6\n Saint-Quen\n (M14)"
+      "Sortie 6:\n Saint-Quen\n (M14)"
     ],
     [
       "",
-      "Saint-Ouen (M14)",
+      "Saint Ouen (M14)",
       "",
       "48.90336842",
       "2.322999234",
-      "Sortie 7\n Saint-Quen\n (M14)"
+      "Sortie 7:\n Saint-Quen\n (M14)"
     ],
     [
       "",
-      "Saint-Paul (M1)",
+      "Saint Paul (M1)",
       "",
       "48.85535951",
       "2.360134597",
@@ -7154,7 +7154,7 @@
     ],
     [
       "",
-      "Saint-Paul (M1)",
+      "Saint Paul (M1)",
       "",
       "48.85536913",
       "2.360092185",
@@ -7162,7 +7162,7 @@
     ],
     [
       "",
-      "Saint-Philippe-du-Roule (M9)",
+      "Saint Philippe du Roule (M9)",
       "",
       "48.87252803",
       "2.31017613",
@@ -7170,7 +7170,7 @@
     ],
     [
       "",
-      "Saint-Philippe-du-Roule (M9)",
+      "Saint Philippe du Roule (M9)",
       "",
       "48.8723515",
       "2.309961862",
@@ -7178,7 +7178,7 @@
     ],
     [
       "",
-      "Saint-Placide (M4)",
+      "Saint Placide (M4)",
       "",
       "48.84680838",
       "2.326954507",
@@ -7186,7 +7186,7 @@
     ],
     [
       "",
-      "Saint-Placide (M4)",
+      "Saint Placide (M4)",
       "",
       "48.84711815",
       "2.326855265",
@@ -7194,7 +7194,7 @@
     ],
     [
       "",
-      "Saint-Sébastien-Froissart (M8)",
+      "Saint Sébastien Froissart (M8)",
       "",
       "48.86115152",
       "2.367039321",
@@ -7202,7 +7202,7 @@
     ],
     [
       "",
-      "Saint-Sébastien-Froissart (M8)",
+      "Saint Sébastien Froissart (M8)",
       "",
       "48.86104075",
       "2.367444974",
@@ -7210,7 +7210,7 @@
     ],
     [
       "",
-      "Saint-Sulpice (M4)",
+      "Saint Sulpice (M4)",
       "",
       "48.85143527",
       "2.331121254",
@@ -7218,7 +7218,7 @@
     ],
     [
       "",
-      "Saint-Sulpice (M4)",
+      "Saint Sulpice (M4)",
       "",
       "48.85162774",
       "2.331311377",
@@ -7226,7 +7226,7 @@
     ],
     [
       "",
-      "Saint-Sulpice (M4)",
+      "Saint Sulpice (M4)",
       "",
       "48.85048839",
       "2.3299794",
@@ -7266,7 +7266,7 @@
     ],
     [
       "",
-      "Sèvres–Lecourbe (M6)",
+      "Sèvres Lecourbe (M6)",
       "",
       "48.84549748",
       "2.310021903",
@@ -7274,27 +7274,27 @@
     ],
     [
       "",
-      "Sèvres-Babylone (M10, M12)",
+      "Sèvres Babylone (M10, M12)",
       "",
       "48.85175475",
       "2.327143244",
-      "Sortie 1\n Sèvres - Babylone\n (M10, M12)"
+      "Sortie 1: \n Sèvres - Babylone\n (M10, M12)"
     ],
     [
       "",
-      "Sèvres-Babylone (M10, M12)",
+      "Sèvres Babylone (M10, M12)",
       "",
       "48.8507911",
       "2.325254969",
-      "Sortie 2\n Sèvres - Babylone\n (M10, M12)"
+      "Sortie 2: \n Sèvres - Babylone\n (M10, M12)"
     ],
     [
       "",
-      "Sèvres-Babylone (M10, M12)",
+      "Sèvres Babylone (M10, M12)",
       "",
       "48.8515006",
       "2.326652399",
-      "Sortie 3\n Sèvres - Babylone\n (M10, M12)"
+      "Sortie 3: \n Sèvres - Babylone\n (M10, M12)"
     ],
     [
       "",
@@ -7318,7 +7318,7 @@
       "",
       "48.85877148",
       "2.322524249",
-      "Sortie 1\n Solférino\n (M12)"
+      "Sortie 1: \n Solférino\n (M12)"
     ],
     [
       "",
@@ -7326,7 +7326,7 @@
       "",
       "48.85875207",
       "2.32304728",
-      "Sortie 2\n Solférino\n (M12)"
+      "Sortie 2: \n Solférino\n (M12)"
     ],
     [
       "",
@@ -7334,7 +7334,7 @@
       "",
       "48.85794472",
       "2.323488503",
-      "Sortie 3\n Solférino\n (M12)"
+      "Sortie 3: \n Solférino\n (M12)"
     ],
     [
       "",
@@ -7378,7 +7378,7 @@
     ],
     [
       "",
-      "Strasbourg–Saint-Denis (M4, M8, M9)",
+      "Strasbourg Saint Denis (M4, M8, M9)",
       "",
       "48.86930848",
       "2.35384572",
@@ -7386,7 +7386,7 @@
     ],
     [
       "",
-      "Strasbourg–Saint-Denis (M4, M8, M9)",
+      "Strasbourg Saint Denis (M4, M8, M9)",
       "",
       "48.86918373",
       "2.354465911",
@@ -7394,7 +7394,7 @@
     ],
     [
       "",
-      "Strasbourg–Saint-Denis (M4, M8, M9)",
+      "Strasbourg Saint Denis (M4, M8, M9)",
       "",
       "48.86936462",
       "2.354553155",
@@ -7402,7 +7402,7 @@
     ],
     [
       "",
-      "Strasbourg–Saint-Denis (M4, M8, M9)",
+      "Strasbourg Saint Denis (M4, M8, M9)",
       "",
       "48.86990356",
       "2.3520117",
@@ -7410,7 +7410,7 @@
     ],
     [
       "",
-      "Strasbourg–Saint-Denis (M4, M8, M9)",
+      "Strasbourg Saint Denis (M4, M8, M9)",
       "",
       "48.86970284",
       "2.352001136",
@@ -7418,7 +7418,7 @@
     ],
     [
       "",
-      "Strasbourg–Saint-Denis (M4, M8, M9)",
+      "Strasbourg Saint Denis (M4, M8, M9)",
       "",
       "48.869711",
       "2.352867233",
@@ -7426,7 +7426,7 @@
     ],
     [
       "",
-      "Strasbourg–Saint-Denis (M4, M8, M9)",
+      "Strasbourg Saint Denis (M4, M8, M9)",
       "",
       "48.86974236",
       "2.352720707",
@@ -7434,7 +7434,7 @@
     ],
     [
       "",
-      "Sully–Morland (M7)",
+      "Sully Morland (M7)",
       "",
       "48.85101711",
       "2.362506595",
@@ -7442,7 +7442,7 @@
     ],
     [
       "",
-      "Sully–Morland (M7)",
+      "Sully Morland (M7)",
       "",
       "48.85115774",
       "2.362941989",
@@ -7450,7 +7450,7 @@
     ],
     [
       "",
-      "Sully–Morland (M7)",
+      "Sully Morland (M7)",
       "",
       "48.85133719",
       "2.36245237",
@@ -7458,7 +7458,7 @@
     ],
     [
       "",
-      "Sully–Morland (M7)",
+      "Sully Morland (M7)",
       "",
       "48.85224125",
       "2.361019814",
@@ -7554,19 +7554,19 @@
     ],
     [
       "",
-      "Trinité - d'Estienne d'Orves (M12)",
+      "Trinité d'Estienne d'Orves (M12)",
       "",
       "48.87654082",
       "2.332473727",
-      "Sortie 1\n Trinité - d'Estienne d'Orves\n (M12)"
+      "Sortie 1: \n Trinité - d'Estienne d'Orves\n (M12)"
     ],
     [
       "",
-      "Trinité - d'Estienne d'Orves (M12)",
+      "Trinité d'Estienne d'Orves (M12)",
       "",
       "48.87637421",
       "2.333503068",
-      "Sortie 2\n Trinité - d'Estienne d'Orves\n (M12)"
+      "Sortie 2: \n Trinité - d'Estienne d'Orves\n (M12)"
     ],
     [
       "",
@@ -7638,7 +7638,7 @@
       "",
       "48.85688389",
       "2.315377476",
-      "Sortie 1\n Varenne\n (M13)"
+      "Sortie 1: \n Varenne\n (M13)"
     ],
     [
       "",
@@ -7646,7 +7646,7 @@
       "",
       "48.83962614",
       "2.301008579",
-      "Sortie 1\n Vaugirard\n (M12)"
+      "Sortie 1: \n Vaugirard\n (M12)"
     ],
     [
       "",
@@ -7654,7 +7654,7 @@
       "",
       "48.83950609",
       "2.301315691",
-      "Sortie 2\n Vaugirard\n (M12)"
+      "Sortie 2: \n Vaugirard\n (M12)"
     ],
     [
       "",
@@ -7662,7 +7662,7 @@
       "",
       "48.83954493",
       "2.30142298",
-      "Sortie 3\n Vaugirard\n (M12)"
+      "Sortie 3: \n Vaugirard\n (M12)"
     ],
     [
       "",
@@ -7714,7 +7714,7 @@
     ],
     [
       "",
-      "Villejuif-Léo Lagrange (M7)",
+      "Villejuif Léo Lagrange (M7)",
       "",
       "48.80537221",
       "2.363300809",
@@ -7722,7 +7722,7 @@
     ],
     [
       "",
-      "Villejuif-Léo Lagrange (M7)",
+      "Villejuif Léo Lagrange (M7)",
       "",
       "48.80451122",
       "2.363666873",
@@ -7730,7 +7730,7 @@
     ],
     [
       "",
-      "Villejuif-Léo Lagrange (M7)",
+      "Villejuif Léo Lagrange (M7)",
       "",
       "48.80452651",
       "2.36417065",
@@ -7738,7 +7738,7 @@
     ],
     [
       "",
-      "Villejuif-Léo Lagrange (M7)",
+      "Villejuif Léo Lagrange (M7)",
       "",
       "48.80545666",
       "2.363844763",
@@ -7746,7 +7746,7 @@
     ],
     [
       "",
-      "Villejuif-Louis Aragon (M7)",
+      "Villejuif Louis Aragon (M7)",
       "",
       "48.78789563",
       "2.36705027",
@@ -7754,7 +7754,7 @@
     ],
     [
       "",
-      "Villejuif-Louis Aragon (M7)",
+      "Villejuif Louis Aragon (M7)",
       "",
       "48.78751465",
       "2.368045743",
@@ -7762,7 +7762,7 @@
     ],
     [
       "",
-      "Villejuif-Louis Aragon (M7)",
+      "Villejuif Louis Aragon (M7)",
       "",
       "48.78828865",
       "2.367936698",
@@ -7770,7 +7770,7 @@
     ],
     [
       "",
-      "Villejuif-Louis Aragon (M7)",
+      "Villejuif Louis Aragon (M7)",
       "",
       "48.78766875",
       "2.367430412",
@@ -7778,7 +7778,7 @@
     ],
     [
       "",
-      "Villejuif-Paul Vaillant Couturier (M7)",
+      "Villejuif Paul Vaillant Couturier (M7)",
       "",
       "48.79629589",
       "2.3685183",
@@ -7786,7 +7786,7 @@
     ],
     [
       "",
-      "Villejuif-Paul Vaillant Couturier (M7)",
+      "Villejuif Paul Vaillant Couturier (M7)",
       "",
       "48.79621722",
       "2.368076763",
@@ -7794,7 +7794,7 @@
     ],
     [
       "",
-      "Villejuif-Paul Vaillant Couturier (M7)",
+      "Villejuif Paul Vaillant Couturier (M7)",
       "",
       "48.7965254",
       "2.368406546",
