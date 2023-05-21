@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1089",
+  "range": "'スポットデータ'!A1:J1090",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -6726,6 +6726,14 @@
       "48.85576567",
       "2.325618154",
       "Sortie 1: \n Rue du Bac\n (M12)"
+    ],
+    [
+      "",
+      "Rue du Bac (M12)",
+      "",
+      "48.85577",
+      "2.32566",
+      "Sortie 1: Stairs\n Rue du Bac\n (M12)"
     ],
     [
       "",
