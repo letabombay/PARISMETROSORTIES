@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1090",
+  "range": "'スポットデータ'!A1:J1096",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -653,6 +653,54 @@
       "48.84524572",
       "2.430777362",
       "Sortie 4\n Bérault \n (M1)"
+    ],
+    [
+      "",
+      "Bercy (M6, M14)",
+      "",
+      "48.84029",
+      "2.37938",
+      "Sortie 1\nPlace du Bataillon du Pacifique AccorHotels Arena \n(M6, M14)"
+    ],
+    [
+      "",
+      "Bercy (M6, M14)",
+      "",
+      "48.84027",
+      "2.38014",
+      "Sortie 2\nBoulevard de Bercy\n(M6, M14)"
+    ],
+    [
+      "",
+      "Bercy (M6, M14)",
+      "",
+      "48.83997",
+      "2.38189",
+      "Sortie 3\nRue Corbineau Gare SNCF de Paris-Bercy\n(M6, M14)"
+    ],
+    [
+      "",
+      "Bercy (M6, M14)",
+      "",
+      "48.83915",
+      "2.3806",
+      "Sortie 4\nRue Henri Desgrange\n(M6, M14)"
+    ],
+    [
+      "",
+      "Bercy (M6, M14)",
+      "",
+      "48.83912",
+      "2.38043",
+      "Sortie 5\nRue Paul Belmondo Parc de Bercy\n(M6, M14)"
+    ],
+    [
+      "",
+      "Bercy (M6, M14)",
+      "",
+      "48.83886",
+      "2.38098",
+      "Sortie 6\nRue de Bercy\n(M6, M14)"
     ],
     [
       "",
